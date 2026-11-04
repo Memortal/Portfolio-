@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="MEMO Studio — selected architectural, fabrication, computational design, and public art work."/>
+<title>MEMO / Portfolio Archive</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+:root {color-scheme:dark; --bg:#090b0e;--panel:#11151a;--line:#31383e;--fg:#f2f3f3;--muted:#8f9ba2;--brand:#b3fbca}
+*{box-sizing:border-box} html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--fg);font-family:'DM Sans',system-ui,sans-serif}
+header{border-bottom:1px solid var(--line);padding:22px clamp(20px,5vw,80px);display:flex;align-items:center;justify-content:space-between;gap:20px}
+.logo{font:700 24px 'Space Grotesk',sans-serif;letter-spacing:-1.5px} .logo b{color:var(--brand)}
+nav{display:flex;gap:24px;align-items:center} a{color:inherit;text-decoration:none} nav a{font-size:13px;color:var(--muted)} nav a:hover{color:var(--brand)}
+main{max-width:1740px;margin:auto;padding:0 clamp(20px,5vw,80px) 100px}
+.hero{padding:85px 0 64px;max-width:1040px} .eyebrow{display:inline-flex;align-items:center;gap:12px;font-size:11px;letter-spacing:.17em;text-transform:uppercase;color:var(--brand);font-weight:700}.eyebrow:before{content:'';width:24px;height:1px;background:var(--brand)}
+h1{font:500 clamp(48px,7.6vw,116px)/.99 'Space Grotesk',sans-serif;letter-spacing:-.08em;margin:19px 0 25px} h1 em{font-style:normal;color:var(--muted)}
+.intro{font-size:clamp(15px,1.6vw,19px);line-height:1.65;max-width:660px;color:#adb7bc}
+.info{display:flex;gap:24px;flex-wrap:wrap;margin:30px 0 0;color:var(--muted);font-size:12px}
+.info strong{color:var(--fg)}
+.filters{position:sticky;top:0;z-index:30;display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:17px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:rgba(9,11,14,.94);backdrop-filter:blur(14px)}
+.filters button{border:1px solid var(--line);background:transparent;color:#bac4c9;padding:10px 15px;border-radius:50px;font:600 12px 'DM Sans';cursor:pointer}
+.filters button:hover,.filters button.active{border-color:var(--brand);color:#0c0f11;background:var(--brand)}
+.filters input{margin-left:auto;min-width:180px;flex:0 1 250px;background:var(--panel);border:1px solid var(--line);color:var(--fg);border-radius:30px;padding:11px 15px;outline:0}
+.count{font-size:12px;color:var(--muted);margin:26px 0}
+.gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:36px 18px}
+.card{min-width:0}
+.cover{display:block;position:relative;background:#171d20;aspect-ratio:4 / 3;overflow:hidden;border:1px solid #22292e;cursor:pointer}
+.cover img,.cover video{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s}
+.cover:hover img{transform:scale(1.035)}
+.cover .fallback{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:var(--muted)}
+.cover .tag{position:absolute;left:14px;top:14px;background:#0b0d0dcc;padding:6px 9px;font-size:10px;letter-spacing:.1em;text-transform:uppercase}
+.content{padding:14px 1px 0}.kicker{color:var(--brand);font-size:10px;text-transform:uppercase;letter-spacing:.12em;margin-bottom:7px}.name{font:500 15px/1.45 'Space Grotesk';overflow-wrap:anywhere}
+.meta{margin-top:7px;color:var(--muted);font-size:11px}
+.foot{margin-top:100px;padding:34px 0;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+.foot a{color:var(--brand)}
+#lightbox{position:fixed;inset:0;z-index:99;background:#020406eF;display:none;align-items:center;justify-content:center;padding:55px 25px}
+#lightbox.open{display:flex}.light-inner{max-width:min(1100px,95vw);max-height:88vh;text-align:center}.light-inner img,.light-inner video{max-width:100%;max-height:78vh;object-fit:contain}
+#close{position:absolute;right:26px;top:24px;background:#262e32;color:white;border:0;border-radius:50%;width:42px;height:42px;font-size:23px;cursor:pointer}
+.light-caption{color:#bac4c9;margin-top:15px;font-size:13px;overflow-wrap:anywhere}.light-caption a{color:var(--brand)}
+.empty{font-size:14px;color:var(--muted);margin:40px 0}
+@media(max-width:960px){.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}.filters input{flex:1 1 100%;margin-left:0}.hero{padding:65px 0 50px}}
+@media(max-width:600px){.gallery{grid-template-columns:1fr}.hero{padding:52px 0 38px}h1{font-size:54px} nav a{display:none}.filters{gap:8px}.filters button{padding:8px 11px;font-size:11px}}
+</style>
+</head>
+<body>
+<header>
+  <a href="./" class="logo">MEMO<b> / </b>PORTFOLIO</a>
+  <nav><a href="#work">PROJECT ARCHIVE</a><a href="https://github.com/Memortal/Portfolio-" target="_blank" rel="noopener">GITHUB</a><a href="https://memostudio.design" target="_blank" rel="noopener">STUDIO</a></nav>
+</header>
+<main>
+  <section class="hero">
+    <span class="eyebrow">Architecture · Art · Computation</span>
+    <h1>Built ideas.<br><em>Open futures.</em></h1>
+    <p class="intro">An evolving image archive of architectural experiments, computational design, fabrication and public art — connecting material practice with digital exploration.</p>
+    <div class="info"><span><strong id="total-count">—</strong> catalogued media</span><span>Original images from historic Wix media libraries</span><span>AMP material excluded</span></div>
+  </section>
+  <section id="work">
+    <div class="filters" role="group" aria-label="Filter portfolio">
+      <button class="active" data-group="All" type="button">All</button>
+      <button data-group="MAK Studio" type="button">MAK Studio</button>
+      <button data-group="DesignHive" type="button">DesignHive</button>
+      <button data-group="Architecture" type="button">Architecture</button>
+      <button data-group="Art + Research" type="button">Art + Research</button>
+      <button data-group="Portal Universalis" type="button">Portal Universalis</button>
+      <button data-group="Other" type="button">Other</button>
+      <input id="search" type="search" autocomplete="off" placeholder="Search works and filenames…" aria-label="Search projects"/>
+    </div>
+    <p class="count" id="count">Loading portfolio records…</p>
+    <div class="gallery" id="gallery"></div>
+    <p class="empty" id="empty" hidden>No works match the current filter.</p>
+  </section>
+  <footer class="foot"><span>© MEMO / Selected archive, work from collaborative design practices. Project roles and image credits subject to verification.</span><a href="https://github.com/Memortal/Portfolio-" target="_blank" rel="noopener">View source & image catalog</a></footer>
+</main>
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Media preview">
+  <button id="close" aria-label="Close preview">×</button>
+  <div class="light-inner" id="light-content"></div>
+</div>
+<script>
+const gallery = document.getElementById('gallery');
+const count = document.getElementById('count');
+const search = document.getElementById('search');
+const empty = document.getElementById('empty');
+const overlay = document.getElementById('lightbox');
+let files = [];
+let group = 'All';
+function safeUrl(item) {
+  const url = item.localPath || item.sourceUrl;
+  if (!url) return '';
+  if (item.localPath && !item.localPath.includes('..') && !item.localPath.startsWith('/')) return url;
+  if (url.startsWith('https://static.wixstatic.com/') || url.startsWith('https://video.wixstatic.com/')) return url;
+  return '';
+}
+function openPreview(item){
+  const box=document.getElementById('light-content');
+  box.replaceChildren();
+  const url=safeUrl(item); if(!url)return;
+  const media=item.mediaType==='VIDEO'?document.createElement('video'):document.createElement('img');
+  media.src=url;
+  if(item.mediaType==='VIDEO'){media.controls=true;media.autoplay=true;media.playsInline=true}
+  else media.alt=item.name;
+  box.append(media);
+  const p=document.createElement('div');p.className='light-caption';
+  p.append(document.createTextNode(item.name+' · '+item.sourceSite+' · '));
+  const a=document.createElement('a'); a.href=item.sourceUrl;a.target='_blank';a.rel='noopener';a.textContent='Original at Wix';
+  p.append(a);box.append(p);overlay.classList.add('open');
+}
+function card(item) {
+  const article=document.createElement('article'); article.className='card';
+  const cover=document.createElement('div');cover.className='cover';cover.tabIndex=0;
+  const url=safeUrl(item);
+  if(item.mediaType==='IMAGE'){
+    const img=document.createElement('img');img.loading='lazy';img.decoding='async';img.src=url;img.alt=item.name;
+    cover.append(img);
+  } else {
+    const placeholder=document.createElement('div');placeholder.className='fallback';placeholder.textContent='▶  Play video';
+    cover.append(placeholder);
+  }
+  const tag=document.createElement('span');tag.className='tag';tag.textContent=item.mediaType==='VIDEO'?'Video':item.category;cover.append(tag);
+  cover.addEventListener('click',()=>openPreview(item));
+  cover.addEventListener('keydown',e=>{if(e.key==='Enter')openPreview(item)});
+  const content=document.createElement('div');content.className='content';
+  const category=document.createElement('div');category.className='kicker';category.textContent=item.category;
+  const title=document.createElement('div');title.className='name';title.textContent=item.name;
+  const meta=document.createElement('div');meta.className='meta';
+  meta.textContent=item.sourceSite+(item.width&&item.height?'  ·  '+item.width+' × '+item.height:'');
+  content.append(category,title,meta);article.append(cover,content);return article;
+}
+function render(){
+  const q=search.value.trim().toLowerCase();
+  const selected=files.filter(f=>(group==='All'||f.category===group) &&
+    (f.name+' '+f.category+' '+f.sourceSite).toLowerCase().includes(q));
+  gallery.replaceChildren();
+  selected.forEach(f=>gallery.append(card(f)));
+  empty.hidden=selected.length>0;
+  count.textContent=selected.length+' items shown'+(selected.length!==files.length?' · '+files.length+' total':'');
+}
+document.querySelectorAll('[data-group]').forEach(b=>b.addEventListener('click',()=>{
+  document.querySelectorAll('[data-group]').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');group=b.dataset.group;render();
+}));
+search.addEventListener('input',render);
+function closePreview(){overlay.classList.remove('open');document.getElementById('light-content').replaceChildren()}
+document.getElementById('close').addEventListener('click',closePreview);
+overlay.addEventListener('click',e=>{if(e.target===overlay)closePreview()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closePreview()});
+fetch('./data/media-manifest.json').then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(data=>{
+  // Reviewed catalog for project browsing. Exclude any classified personal records.
+  files=data.files.filter(f=>f.showInGallery && (f.mediaType==='IMAGE'||f.mediaType==='VIDEO'));
+  document.getElementById('total-count').textContent=files.length;
+  render();
+}).catch(()=>{count.textContent='The catalog has not been imported yet. Check the repository manifest.'});
+</script>
+</body>
+</html>
