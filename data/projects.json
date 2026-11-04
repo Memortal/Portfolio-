@@ -1,0 +1,138 @@
+{
+  "title": "MEMO Portfolio — Projects",
+  "lastOrganized": "2026-11-04",
+  "projects": [
+    {
+      "id": "mak-studio",
+      "title": "MAK Studio",
+      "subtitle": "Fabrication, prototyping & built work",
+      "date": "2017–2018",
+      "priority": 1,
+      "featured": true,
+      "discipline": "Fabrication",
+      "summary": "Studio photographs and presentation boards documenting making, material execution and detailed design. Original credit and project-by-project roles should be confirmed.",
+      "competitionFit": "Strong fabrication and buildability evidence for public-art commissions.",
+      "review": "Studio attribution visible in the image filenames; individual project names and precise contributions require review."
+    },
+    {
+      "id": "lotus-flower",
+      "title": "Lotus Flower",
+      "subtitle": "Public art & sculptural exploration",
+      "date": "Archive",
+      "priority": 2,
+      "featured": true,
+      "discipline": "Public art",
+      "summary": "Lotus Flower photographs and related TADAEX archive images, grouped as a sculptural-art series. Exact exhibition titles, image rights and collaborators should be verified.",
+      "competitionFit": "Relevant to sculptural concepts and site-responsive public-art proposals.",
+      "review": "Grouped from Lotus and TADA image filenames; confirm they refer to the same work before final publication."
+    },
+    {
+      "id": "designhive",
+      "title": "DesignHive / Inventure",
+      "subtitle": "Spatial and interior fabrication",
+      "date": "2018 archive",
+      "priority": 3,
+      "featured": true,
+      "discipline": "Spatial design",
+      "summary": "A documented set of Inventure and work-area images from DesignHive, including built interior and spatial-component studies.",
+      "competitionFit": "Useful evidence of human-scale spatial experience and detailing.",
+      "review": "Confirm scope, collaborators and contribution credits."
+    },
+    {
+      "id": "fabrication-fieldwork",
+      "title": "Fabrication & Site Documentation",
+      "subtitle": "Workshop and construction photo series",
+      "date": "2018",
+      "priority": 4,
+      "featured": true,
+      "discipline": "Fabrication",
+      "summary": "A chronological collection of site and workshop photographs from 2018. These images are kept together pending project identification instead of being attributed to an unverified client.",
+      "competitionFit": "Potentially strong evidence of fabrication experience, logistics and physical installation.",
+      "review": "Project identity and individual photo attribution must be confirmed before use in a competition application."
+    },
+    {
+      "id": "final-boards",
+      "title": "Final Design Presentation",
+      "subtitle": "Architectural proposal boards",
+      "date": "2018",
+      "priority": 5,
+      "featured": false,
+      "discipline": "Design documentation",
+      "summary": "A cohesive archive of drawings, renderings and presentation boards saved as FINAL_Page images.",
+      "competitionFit": "Supports concept development and ability to communicate an integrated proposal.",
+      "review": "Final project title and authorship need confirmation."
+    },
+    {
+      "id": "architecture-diagrams",
+      "title": "Architecture: Form & Diagrams",
+      "subtitle": "Renderings, sections and spatial concepts",
+      "date": "Historic archive",
+      "priority": 6,
+      "featured": false,
+      "discipline": "Architecture",
+      "summary": "A group of perspective views, sections, diagrams and main renderings. Kept separate from other projects where source filenames do not establish a title.",
+      "competitionFit": "Evidence of visual storytelling and concept-to-design exploration.",
+      "review": "Verify that these images belong to one project."
+    },
+    {
+      "id": "pvamu-presentation",
+      "title": "PVAMU Presentation",
+      "subtitle": "Design presentation series",
+      "date": "2017",
+      "priority": 7,
+      "featured": false,
+      "discipline": "Architecture",
+      "summary": "Presentation slides labeled PVAMU, organized together as one historical set.",
+      "competitionFit": "Demonstrates professional or academic design communication.",
+      "review": "Confirm event, project and collaborator credits."
+    },
+    {
+      "id": "design-presentation",
+      "title": "Design Presentation Archive",
+      "subtitle": "Earlier conceptual design boards",
+      "date": "Historic archive",
+      "priority": 8,
+      "featured": false,
+      "discipline": "Architecture",
+      "summary": "Numbered Presentation_Page slides preserved as a single presentation set.",
+      "competitionFit": "Additional proposals, visual studies and design process.",
+      "review": "Project identity not established by filenames."
+    },
+    {
+      "id": "interiors",
+      "title": "Interior Visualizations",
+      "subtitle": "Living room studies",
+      "date": "Historic archive",
+      "priority": 9,
+      "featured": false,
+      "discipline": "Interior design",
+      "summary": "Living room renderings from the earlier portfolio.",
+      "competitionFit": "Secondary evidence of spatial design and visualization.",
+      "review": "Confirm project and role."
+    },
+    {
+      "id": "generative-research",
+      "title": "Computational & Generative Research",
+      "subtitle": "Algorithms, form and art studies",
+      "date": "2022–2024",
+      "priority": 10,
+      "featured": false,
+      "discipline": "Creative technology",
+      "summary": "Computational-design images, pixel-algorithm experiments and generative visual studies.",
+      "competitionFit": "Supports the studio's algorithmic design and digital-art research.",
+      "review": "Selected assets may be AI-generated illustrations and should be labeled accordingly."
+    },
+    {
+      "id": "uncategorized",
+      "title": "Unidentified Archive",
+      "subtitle": "Additional photographs to classify",
+      "date": "Historic archive",
+      "priority": 11,
+      "featured": false,
+      "discipline": "Unclassified",
+      "summary": "Remaining photos whose filenames do not reliably establish a project. Preserved in the archive rather than assigned to a guessed commission.",
+      "competitionFit": "Not highlighted for juries until reviewed.",
+      "review": "Requires project-level identification and suitable publication rights."
+    }
+  ]
+}

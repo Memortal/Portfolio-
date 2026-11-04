@@ -117,7 +117,7 @@ def main():
             errors += 1
             continue
         media_type = item["mediaType"]
-        group = "portal" if item["sourceSite"] == "Portal Universalis" else "portfolio"
+        group = "portfolio"
         safe_name = slug(item["name"])
         ident = hashlib.sha256(source.encode("utf-8")).hexdigest()[:12]
         folder = "videos" if media_type == "VIDEO" else "images"

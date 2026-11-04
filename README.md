@@ -1,28 +1,33 @@
-# MEMO Portfolio — Wix archive and project gallery
+# MEMO Portfolio — Competition-first project gallery
 
-A public, searchable archive of portfolio media migrated from the owner's two Wix sites:
-- **Alireza Memarian** — architectural work, MAK Studio, DesignHive, fabrication studies, and other portfolio projects
-- **Portal Universalis** — installation visuals and associated media
+**Public gallery:** https://memortal.github.io/Portfolio-/
 
-**Deliberately excluded:** the entire *Automated Master Pla* Wix site, files explicitly labeled AMP or Automated Master Plan, résumé/CV documents and their scanned image versions, and unrelated or ambiguous videos pending review.
+This website presents archived photographs and design materials by **project**, with work relevant to public-art competitions at the top.
 
-## How it works
+## Featured project groups
 
-1. `data/media-manifest.json` is a filename-and-URL inventory from Wix. It preserves source URLs and provenance.
-2. `scripts/import_wix_media.py` downloads and optimizes eligible images and selected project videos into `assets/`. It writes a `localPath` for successful files.
-3. The import workflow commits the optimized files back into this repository.
-4. `index.html` loads the manifest and displays a responsive, searchable portfolio archive.
+1. **MAK Studio** — fabrication, prototyping and historical presentation boards
+2. **Lotus Flower** — sculptural-art image set, with related TADA photographs (relationship to verify)
+3. **DesignHive / Inventure** — spatial and interior work-area design
+4. **Fabrication & Site Documentation** — workshop and site photo archive, attribution pending
 
-Images originally uploaded at full resolution have been converted to web-friendly versions for this public repository. **The optimized copies are not a full-resolution backup.** Keep originals in private storage; Wix source URLs are retained as reference links.
+Additional architectural proposals, presentation studies, interiors and computational-art images follow. Unidentified photos remain in a separate archive rather than receiving unsupported project credits.
 
-## Project authorship and rights
+## Data and images
 
-Historic media from multiple collaborative studios is presented as an archive of prior work, **not a claim of sole authorship or ownership**. Confirm project titles, roles, collaborators, image rights, and credits before using images in a formal application or public-facing final portfolio.
+- `data/projects.json`: project titles, order, descriptions, publication and attribution caveats
+- `data/media-manifest.json`: every remaining media record, its project assignment and original Wix source URL
+- `assets/images/portfolio/`: optimized locally hosted copies, imported from the owner's personal Wix media library
+- `scripts/import_wix_media.py`: optional media-recovery importer; it reads only the curated manifest
 
-## Website
+**Excluded:** all Portal Universalis material, all Automated Master Plan/AMP material, personal CV/resume documents, and ambiguous or unrelated video files.
 
-This repository includes a static site ready for GitHub Pages. To publish, open **Settings → Pages**, select **Deploy from a branch**, and select `main` and `/(root)`. The expected user-facing address after publication is `https://memortal.github.io/Portfolio-/`, but only GitHub Pages can confirm when it is live.
+The current GitHub files are optimized for the public website, **not** an archival-quality backup of full-resolution Wix originals. Original Wix-hosted files were not changed.
 
-## Import updates
+## Authorship, collaboration and image permissions
 
-Run the **Import Wix media** GitHub Actions workflow from the Actions tab if you need to retry failed downloads. The generated manifest records each file's import status. Large and ambiguous videos remain linked from Wix when they cannot safely be put into GitHub.
+Project grouping is based on available filenames. Do not interpret archived work as a claim of sole authorship. Verify precise project names, contributors, photography rights and the user's role before submitting to a public-art jury. Image captions or project pages should describe responsibilities accurately.
+
+## Hosting
+
+This static site is configured to work on GitHub Pages from `main` / root. The site's grouped projects can be edited through `data/projects.json` and the manifest. The manual/automatic importer may be run from GitHub Actions for assets listed in the current manifest.
