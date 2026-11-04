@@ -875,26 +875,6 @@
       "projectId": "uncategorized"
     },
     {
-      "id": "faa7bd_b6f2914232a94df1879b39e655c014db~mv2_d_2550_3311_s_4_2.jpg",
-      "name": "RESUME_JULY2018.jpg",
-      "sourceUrl": "https://static.wixstatic.com/media/faa7bd_b6f2914232a94df1879b39e655c014db~mv2_d_2550_3311_s_4_2.jpg",
-      "mediaType": "IMAGE",
-      "sizeBytes": 1438315,
-      "width": 2550,
-      "height": 3311,
-      "createdDate": "2018-07-03T23:17:03.000Z",
-      "sourceSite": "Alireza Memarian",
-      "category": "Unclassified",
-      "importApproved": true,
-      "showInGallery": true,
-      "optimizedWidth": 1848,
-      "optimizedHeight": 2400,
-      "localPath": "assets/images/portfolio/resume-july2018-jpg-e192365745c8.webp",
-      "importStatus": "complete",
-      "optimizedBytes": 328676,
-      "projectId": "uncategorized"
-    },
-    {
       "id": "faa7bd_d1efedb6bccf4d92902fe5136098fe9d~mv2_d_6000_4000_s_4_2.jpg",
       "name": "DSC_0641.JPG",
       "sourceUrl": "https://static.wixstatic.com/media/faa7bd_d1efedb6bccf4d92902fe5136098fe9d~mv2_d_6000_4000_s_4_2.jpg",
@@ -4665,7 +4645,7 @@
     }
   ],
   "importSummary": {
-    "importedFiles": 211,
+    "importedFiles": 210,
     "linkedOnly": 18,
     "errors": 7,
     "lastRun": "2026-11-04T23:17:52Z"
