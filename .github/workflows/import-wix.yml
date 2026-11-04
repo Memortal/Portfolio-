@@ -1,0 +1,37 @@
+name: Import Wix media
+on:
+  push:
+    paths:
+      - 'data/media-manifest.json'
+      - 'scripts/import_wix_media.py'
+      - '.github/workflows/import-wix.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - name: Checkout portfolio
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install image optimizer
+        run: python -m pip install --disable-pip-version-check Pillow
+      - name: Import non-AMP media
+        run: python scripts/import_wix_media.py
+      - name: Commit imported assets and status
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets/ data/media-manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Import optimized non-AMP portfolio media from Wix"
+            git push origin HEAD:main
+          fi
