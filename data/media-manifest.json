@@ -20,7 +20,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_e338efac9cfd42d29cd152c1b01cebec",
@@ -34,7 +35,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_844b5ac2232346d5b3c5171cb178de99",
@@ -48,7 +50,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_c30c0a1d328743f0a0e7b948b2cb7670",
@@ -62,7 +65,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_ca55e57d347e4fd19d73fe4c6a6a9e84",
@@ -76,7 +80,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_b19fb5c06b1745bfb6d240031626163d",
@@ -90,7 +95,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_867b9d9c01a348fea275ba8c027f6af0",
@@ -104,7 +110,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_e1e2c83f597d453991cec5b9d00c62d4~mv2.png",
@@ -118,7 +125,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/dalle-2024-01-29-13-23-49-a-one-liner-drawing-on-a-whit-35f4860fcff3.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 127578
     },
     {
       "id": "faa7bd_de0c5880d7124b0a8454ebc3960d373c~mv2.jpg",
@@ -132,7 +144,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/one-liner-white-background-minimal-illustration-of-a-se-0712c1f6ad72.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 36776
     },
     {
       "id": "faa7bd_0c7af3e204df49078a960a108f1ee397~mv2.jpg",
@@ -146,7 +163,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/one-liner-white-background-of-inerself-jpg-581885bc765f.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 28688
     },
     {
       "id": "faa7bd_33975947451441b091378b81f7e8f0d8~mv2.jpg",
@@ -160,7 +182,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/one-liner-white-background-of-plenty-of-birds-jpg-b5c9d659b7c7.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 52566
     },
     {
       "id": "faa7bd_d7d773aca34e45d7a5cf3735c563c15a~mv2.png",
@@ -174,7 +201,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 382,
+      "optimizedHeight": 324,
+      "localPath": "assets/images/portfolio/ninja-logo-png-c67ed57b49b6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 6080
     },
     {
       "id": "faa7bd_56dec5a5ce0b46a0979ca863e527b089~mv2.jpg",
@@ -188,7 +220,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1127,
+      "optimizedHeight": 734,
+      "localPath": "assets/images/portfolio/peacock-jpg-8c2f25ca6c28.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 164768
     },
     {
       "id": "faa7bd_f102355ad39a4669be9f1c3e49ecded0~mv2.jpg",
@@ -202,7 +239,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1800,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/alireza-lotus-flower-jpg-a5465c522144.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 45014
     },
     {
       "id": "faa7bd_bad1b23c57814998a9232a6f0960aa70~mv2.png",
@@ -216,7 +258,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1534,
+      "optimizedHeight": 734,
+      "localPath": "assets/images/portfolio/ss-edited-png-c91d0b598e5c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 232784
     },
     {
       "id": "faa7bd_0649455ff63c4930855d7d6db7f318a7~mv2.jpg",
@@ -230,7 +277,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1534,
+      "optimizedHeight": 734,
+      "localPath": "assets/images/portfolio/ss-jpg-f941307a71b2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 116686
     },
     {
       "id": "faa7bd_99747d237d9249de83c3a25ed01de4ec",
@@ -244,7 +296,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "faa7bd_903bada9536141078abb942a81e2c895~mv2.png",
@@ -258,7 +312,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1918,
+      "optimizedHeight": 1013,
+      "localPath": "assets/images/portfolio/a-png-ce26e1447868.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 231312
     },
     {
       "id": "faa7bd_1d83340bc0a14dd0a89d39f7654b226e",
@@ -272,7 +331,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_327bac8a61cf4e37b97a7155734e1852",
@@ -286,7 +346,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_a24390c805744f02818dfcfc183349ba",
@@ -300,7 +361,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_c6ce57e3d8f5412b9b0384b9e0572f2b",
@@ -314,7 +376,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_36a077db03f54142bde0f5d7221e9c15",
@@ -328,7 +391,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_3ff6a53db2c44f8998443174e4505334",
@@ -342,7 +406,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "HTTP Error 403: Forbidden"
     },
     {
       "id": "faa7bd_091636a86eac417f91eb56a546e36fb2",
@@ -356,7 +422,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "HTTP Error 403: Forbidden"
     },
     {
       "id": "faa7bd_2aa63ef7e51c4717b1a43b2a6898d87a",
@@ -370,7 +438,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "HTTP Error 403: Forbidden"
     },
     {
       "id": "faa7bd_511b2e2af10b4397a2284a5fc686293a",
@@ -384,7 +454,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_7e980ff53d964b16affefa2d0b740d25",
@@ -398,7 +469,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "HTTP Error 403: Forbidden"
     },
     {
       "id": "faa7bd_5be8c8a4dc8649a7b23f136e8ac2969a",
@@ -412,7 +485,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_2ef7c371e2084031850349144b14c94e",
@@ -426,7 +500,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_cda5ef117ea549848b1f05dc3961454e",
@@ -440,7 +515,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_5cdc7e756edf4362bd6b1d45cedca367",
@@ -454,7 +530,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "HTTP Error 403: Forbidden"
     },
     {
       "id": "faa7bd_6d2b5b03d3a349fd9f233df40f3b545d",
@@ -468,7 +546,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_9cf342f8900645e2b7fd67e5f99fcd5a",
@@ -482,7 +561,8 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": false,
-      "showInGallery": false
+      "showInGallery": false,
+      "importStatus": "linked-only"
     },
     {
       "id": "faa7bd_93eb5bbef3f64dedb38068f14b81ddb7",
@@ -496,7 +576,9 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "HTTP Error 403: Forbidden"
     },
     {
       "id": "faa7bd_6aab125c589948578b7419c1f39fb089~mv2.png",
@@ -510,7 +592,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/alireza-metaverse-79313c3d-eeec-429d-8d31-80b09d220b6c--cd6e69f9825b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 82304
     },
     {
       "id": "faa7bd_2a823eb2febf4db0a31ad6a349cbd7ea~mv2.png",
@@ -524,7 +611,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/alireza-computational-design-a15e15dd-0437-4a52-ab64-ea-05a840fa49dd.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 119472
     },
     {
       "id": "faa7bd_1d964a8caeeb45f28e0ab0274fb5fbe7~mv2.png",
@@ -538,7 +630,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1664,
+      "optimizedHeight": 1664,
+      "localPath": "assets/images/portfolio/alireza-pixel-algorithm-6557277c-bb20-4f7e-9fa6-a220071-4f49fa2adc2d.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 329440
     },
     {
       "id": "faa7bd_3477bb3da0a64fd1a86083b1770ea70a~mv2.png",
@@ -552,7 +649,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1664,
+      "optimizedHeight": 1664,
+      "localPath": "assets/images/portfolio/alireza-pixel-algorithm-3f4a43d8-c219-460d-83dc-12714b1-ba7eca769bd5.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 352686
     },
     {
       "id": "faa7bd_6b6d8ba40d8844d5a41de8443a6eee83~mv2.png",
@@ -566,7 +668,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1664,
+      "optimizedHeight": 1664,
+      "localPath": "assets/images/portfolio/alireza-pixel-algorithm-6394f005-15d5-456b-8cc6-5818c99-3153110a86e0.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 264140
     },
     {
       "id": "faa7bd_26931bd4b223427894a58acdd30a54fb~mv2.png",
@@ -580,7 +687,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1024,
+      "optimizedHeight": 1024,
+      "localPath": "assets/images/portfolio/alireza-pixel-algorithm-4d6464e5-9e2a-4061-9b44-69582aa-3382d9fcccd8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 153810
     },
     {
       "id": "faa7bd_6b5e2242905d4e76823962325928fbc1~mv2.png",
@@ -594,7 +706,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Art + Research",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1664,
+      "optimizedHeight": 1664,
+      "localPath": "assets/images/portfolio/alireza-pixel-algorithm-8d3841cb-526e-49c3-9cc5-0332b56-01deb493d2cd.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 372992
     },
     {
       "id": "faa7bd_3781889872224af3b852b42c99d5b381~mv2.jpg",
@@ -608,7 +725,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1800,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/img-20220130-064143-jpg-31f5bcad9f47.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 317198
     },
     {
       "id": "faa7bd_8cd9c5f2ca4443748bb909240a0730d5~mv2.jpg",
@@ -622,7 +744,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1920,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/45a950de-a05d-484a-9851-92ff9d9c154c-jpg-698b08c4e863.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 810586
     },
     {
       "id": "faa7bd_982b613b45a04de3a6242881d988182d~mv2.jpg",
@@ -636,7 +763,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/9d5c11e8-eb18-44d8-aada-54cf12f54325-jpg-7c817aaac62b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 480124
     },
     {
       "id": "faa7bd_7918627d1b3e41cb84c644a55f16f0a3~mv2.jpg",
@@ -650,7 +782,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1800,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/img-20211109-131002-jpg-b213c38b7ede.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 277984
     },
     {
       "id": "faa7bd_6cf65a14571a413b81940762c6901166~mv2.jpg",
@@ -664,7 +801,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 960,
+      "optimizedHeight": 1280,
+      "localPath": "assets/images/portfolio/img-0275-jpg-e0b0d997b77c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 81784
     },
     {
       "id": "faa7bd_b2e90113f35f4a00ac53d2ad50063e03~mv2.jpg",
@@ -678,7 +820,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1160,
+      "optimizedHeight": 870,
+      "localPath": "assets/images/portfolio/img-5299-jpg-782789a7417b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 87898
     },
     {
       "id": "faa7bd_b6f2914232a94df1879b39e655c014db~mv2_d_2550_3311_s_4_2.jpg",
@@ -692,7 +839,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1848,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/resume-july2018-jpg-e192365745c8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 328676
     },
     {
       "id": "faa7bd_d1efedb6bccf4d92902fe5136098fe9d~mv2_d_6000_4000_s_4_2.jpg",
@@ -706,7 +858,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0641-jpg-6cc763e19462.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 87738
     },
     {
       "id": "faa7bd_531e6d8b3f2241bda7a4d273f62a4ae0~mv2_d_4000_6000_s_4_2.jpg",
@@ -720,7 +878,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0637-jpg-4cdc3fb8e9d0.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 309790
     },
     {
       "id": "faa7bd_7267ddccd86c43cda53bd01bb060d009~mv2_d_4000_6000_s_4_2.jpg",
@@ -734,7 +898,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0629-jpg-10b46e377dd3.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 466980
     },
     {
       "id": "faa7bd_c65f774208364fd4a83f84ee7ab83ff3~mv2_d_6000_4000_s_4_2.jpg",
@@ -748,7 +918,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0612-jpg-dec45459864c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 379110
     },
     {
       "id": "faa7bd_a5325ec8ab80499c9ae78e23b29fe393~mv2_d_6000_4000_s_4_2.jpg",
@@ -762,7 +938,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0586-jpg-c81110f9beda.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 397788
     },
     {
       "id": "faa7bd_4b55666603dc4639a6203faaa15c7e11~mv2_d_6000_4000_s_4_2.jpg",
@@ -776,7 +958,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0599-jpg-22d9942ea1c4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 402616
     },
     {
       "id": "faa7bd_16c7e381939248d6bf851f014b8fe015~mv2_d_6000_4000_s_4_2.jpg",
@@ -790,7 +978,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0564-jpg-aa6002137627.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 323740
     },
     {
       "id": "faa7bd_e42af6f2d7134d6cac1c878ef5af8495~mv2_d_6000_4000_s_4_2.jpg",
@@ -804,7 +998,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0534-jpg-316f91810224.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 399848
     },
     {
       "id": "faa7bd_6fc8f4705d5c427f948fb752f87c9730~mv2_d_4000_6000_s_4_2.jpg",
@@ -818,7 +1018,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0528-jpg-b883ccca3e97.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 243696
     },
     {
       "id": "faa7bd_b49a35a0fa934635b5c39a0f2b4131aa~mv2_d_4000_6000_s_4_2.jpg",
@@ -832,7 +1038,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0418-jpg-551863eaedd9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 544442
     },
     {
       "id": "faa7bd_248d2799bdb64c028b6e6dc02a20a9e3~mv2_d_4000_6000_s_4_2.jpg",
@@ -846,7 +1058,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0503-jpg-f3cded948614.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 369382
     },
     {
       "id": "faa7bd_525919994bd34dd5a32f9ab64cd62a89~mv2_d_6000_4000_s_4_2.jpg",
@@ -860,7 +1078,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0475-jpg-85d56ce9fd61.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 482264
     },
     {
       "id": "faa7bd_515791f816f4477ab0aadd94f6a6a37e~mv2_d_6000_4000_s_4_2.jpg",
@@ -874,7 +1098,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0425-jpg-a9151e822699.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 344376
     },
     {
       "id": "faa7bd_d3b795293eec47f09d2dc3d6546ec49e~mv2_d_4000_6000_s_4_2.jpg",
@@ -888,7 +1118,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0437-jpg-c85f64699eda.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 312092
     },
     {
       "id": "faa7bd_374034ecbc4c4051be88037377ff611b~mv2_d_6000_4000_s_4_2.jpg",
@@ -902,7 +1138,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0505-jpg-5b17ce3bbfb9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 173710
     },
     {
       "id": "faa7bd_fd649e20f5bd4f009f96efb2f0193465~mv2_d_6000_4000_s_4_2.jpg",
@@ -916,7 +1158,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0516-jpg-e77b49dfc9f4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 415310
     },
     {
       "id": "faa7bd_8b632ab3293e417698e8f8a85e1a77f9~mv2_d_6000_4000_s_4_2.jpg",
@@ -930,7 +1178,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0460-jpg-9ae65cf002a1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 475434
     },
     {
       "id": "faa7bd_51e1113b3c014055a1f1e2d7290b258c~mv2_d_4000_6000_s_4_2.jpg",
@@ -944,7 +1198,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0423-jpg-f038e7dd568f.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 216584
     },
     {
       "id": "faa7bd_d63ba40479dd467eb107414ef95f025b~mv2_d_6000_4000_s_4_2.jpg",
@@ -958,7 +1218,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0455-jpg-47edfc97b6d6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 385324
     },
     {
       "id": "faa7bd_49564e3b30484df280a33796af230d60~mv2_d_6000_4000_s_4_2.jpg",
@@ -972,7 +1238,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0470-jpg-c54064ee494c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 318150
     },
     {
       "id": "faa7bd_5870094a970d4db3ae278b7c8060b951~mv2_d_6000_4000_s_4_2.jpg",
@@ -986,7 +1258,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0474-jpg-f8c482558368.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 382518
     },
     {
       "id": "faa7bd_5cb2da0725d2440aa6be0d832bbbe717~mv2_d_2988_5312_s_4_2.jpg",
@@ -1000,7 +1278,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180404-111909-jpg-441af101601b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 254238
     },
     {
       "id": "faa7bd_a2c4870884e0480fba58533f791a2f01~mv2_d_5312_2988_s_4_2.jpg",
@@ -1014,7 +1297,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180328-113634-jpg-54206278ca08.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 301846
     },
     {
       "id": "faa7bd_4c5069b7a88447148f062df4a73b1042~mv2_d_2988_5312_s_4_2.jpg",
@@ -1028,7 +1316,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180328-113202-jpg-2cf9295f43c1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 284834
     },
     {
       "id": "faa7bd_ce2af08926d946d085bfb8a2de5ff9db~mv2_d_5312_2988_s_4_2.jpg",
@@ -1042,7 +1335,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180328-113516-jpg-6e97f5eeb818.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 271674
     },
     {
       "id": "faa7bd_800a76c98d8a43a2ad34733665f06404~mv2_d_2988_5312_s_4_2.jpg",
@@ -1056,7 +1354,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180221-091737-jpg-df989d9c898a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 197830
     },
     {
       "id": "faa7bd_589fc25a2226491aa617e5d06b5a0d0e~mv2_d_5312_2988_s_4_2.jpg",
@@ -1070,7 +1373,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180403-145921-jpg-2a9cbd05bb37.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 222458
     },
     {
       "id": "faa7bd_037c881a6fb84615907eba2e5c860bd6~mv2_d_5312_2988_s_4_2.jpg",
@@ -1084,7 +1392,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180404-111904-jpg-49409c55690c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 194476
     },
     {
       "id": "faa7bd_21f4fea94af34173a04ec250ff3996b2~mv2_d_6000_4000_s_4_2.jpg",
@@ -1098,7 +1411,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0327-jpg-440885cc09fe.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 130526
     },
     {
       "id": "faa7bd_44d47f18751749a3a0ffd7a96ea7627f~mv2_d_6000_4000_s_4_2.jpg",
@@ -1112,7 +1431,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0325-jpg-1c0664a369a3.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 172510
     },
     {
       "id": "faa7bd_ac7c879f17bd4a61be0fbd4c71017bf2~mv2_d_6000_4000_s_4_2.jpg",
@@ -1126,7 +1451,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0323-jpg-48f0556f7e8f.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 173042
     },
     {
       "id": "faa7bd_6adef0fd8a454bd581975e4b0297d95f~mv2_d_4000_6000_s_4_2.jpg",
@@ -1140,7 +1471,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0310-jpg-ace10b0b3ae1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 187092
     },
     {
       "id": "faa7bd_66fe61e0396d47bbb944c34355c80dbd~mv2_d_4000_6000_s_4_2.jpg",
@@ -1154,7 +1491,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2400,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/dsc-0309-jpg-a20fbfdf98f9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 179704
     },
     {
       "id": "faa7bd_0f3e24f312c64eba84cdb7e38d97fec6~mv2_d_13824_7776_s_6_4_3.jpg",
@@ -1168,7 +1511,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-19-jpg-ffd59de0affc.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 456620
     },
     {
       "id": "faa7bd_b0d44fd87559491793f584541578876c~mv2_d_7680_4320_s_4_2.jpg",
@@ -1182,7 +1530,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-14-jpg-b4ff07613cc9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 295058
     },
     {
       "id": "faa7bd_b43e5b30d6fd4a6b9537fefcf5a0c43c~mv2_d_3840_2160_s_2.jpg",
@@ -1196,7 +1549,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-30-jpg-f8b5b5c012cc.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 165984
     },
     {
       "id": "faa7bd_ee2b7313c163487ca07937365b4443f8~mv2_d_3840_2160_s_2.jpg",
@@ -1210,7 +1568,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-29-jpg-d14a8d72ff2b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 256604
     },
     {
       "id": "faa7bd_68f5b6c2af8c42d4b2549ed276a91981~mv2_d_3840_2160_s_2.jpg",
@@ -1224,7 +1587,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-28-jpg-daf148b73f25.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 288466
     },
     {
       "id": "faa7bd_e818d53076ed4d13b828606f20a79459~mv2_d_3840_2160_s_2.jpg",
@@ -1238,7 +1606,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-26-jpg-0d815fc2a5e1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 361050
     },
     {
       "id": "faa7bd_723d613e6bad4f498504cbc66c244e96~mv2_d_11648_6552_s_4_2.jpg",
@@ -1252,7 +1625,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-22-jpg-d976bd1d4519.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 205348
     },
     {
       "id": "faa7bd_ea32756478be446991b9339d1b0630fe~mv2_d_3840_2160_s_2.jpg",
@@ -1266,7 +1644,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-27-jpg-41ac1a5fb7ab.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 95806
     },
     {
       "id": "faa7bd_a1d1c77da7d24dc891def34b5cbe9eb0~mv2_d_3840_2160_s_2.jpg",
@@ -1280,7 +1663,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-25-jpg-1c651c15b7e5.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 268160
     },
     {
       "id": "faa7bd_ecc856e38cd54d26aecebc20ce1a3e3f~mv2_d_3840_2160_s_2.jpg",
@@ -1294,7 +1682,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-24-jpg-689fd23b8dcb.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 161022
     },
     {
       "id": "faa7bd_de00a9617df84e2db5723970f595bb15~mv2_d_3840_2160_s_2.jpg",
@@ -1308,7 +1701,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-23-jpg-39a3fbe77361.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 226734
     },
     {
       "id": "faa7bd_5dc2388c945540dfb5b21af0c603c4ab~mv2_d_7680_4320_s_4_2.jpg",
@@ -1322,7 +1720,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-18-jpg-3f23e5526392.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 160092
     },
     {
       "id": "faa7bd_7cedba5ed9f8484ea556fd4eb100db1c~mv2_d_3840_2160_s_2.jpg",
@@ -1336,7 +1739,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-20-jpg-e69bbd777082.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 513680
     },
     {
       "id": "faa7bd_8604af80d63b4953b268ef6d0dc4d307~mv2_d_3840_2160_s_2.jpg",
@@ -1350,7 +1758,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-21-jpg-ba0aac5ba3e8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 131768
     },
     {
       "id": "faa7bd_93c88c6515544238a984e004d2b9540b~mv2_d_3840_2160_s_2.jpg",
@@ -1364,7 +1777,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-17-jpg-b9d3654753e6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 259628
     },
     {
       "id": "faa7bd_f742bba41bdc4576acfc4df6eaca7933~mv2_d_3840_2160_s_2.jpg",
@@ -1378,7 +1796,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-16-jpg-96f0c20afe19.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 187546
     },
     {
       "id": "faa7bd_847818ab4fea4c2188a99450456ebeb5~mv2_d_5792_3258_s_4_2.jpg",
@@ -1392,7 +1815,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-11-jpg-e913432bd345.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 413966
     },
     {
       "id": "faa7bd_4adb2e2591304b83b161d0b0783afc34~mv2_d_3840_2160_s_2.jpg",
@@ -1406,7 +1834,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-15-jpg-1d32c2e661f6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 290466
     },
     {
       "id": "faa7bd_4d9c9fd99b3d468b92877f1531e2d400~mv2_d_10816_6085_s_4_2.jpg",
@@ -1420,7 +1853,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-13-jpg-1102bc0c6f20.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 122364
     },
     {
       "id": "faa7bd_ef6099c3484048af8fdc7e42e0c14569~mv2_d_11104_6247_s_4_2.jpg",
@@ -1434,7 +1872,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-08-jpg-cbc51a819c9d.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 176502
     },
     {
       "id": "faa7bd_971e81296d2f4f0e9a4f3866cb9914c7~mv2_d_8800_4950_s_4_2.jpg",
@@ -1448,7 +1891,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-12-jpg-78fa31058f72.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 142648
     },
     {
       "id": "faa7bd_1c80c199724c4498ba9408027cb767f6~mv2_d_9600_5400_s_4_2.jpg",
@@ -1462,7 +1910,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-10-jpg-423976a378b0.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 30040
     },
     {
       "id": "faa7bd_4e97013b4bff46d78266f9927641e6df~mv2_d_5792_3258_s_4_2.jpg",
@@ -1476,7 +1929,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-09-jpg-62c2de4362b5.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 95984
     },
     {
       "id": "faa7bd_0a045a2dbd5440fa82597b2f92881d01~mv2_d_6528_3672_s_4_2.jpg",
@@ -1490,7 +1948,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-07-jpg-b7ee76598325.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 125886
     },
     {
       "id": "faa7bd_18201b59cea84db1aab7086e75f7bc00~mv2_d_3840_2160_s_2.jpg",
@@ -1504,7 +1967,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-01-jpg-f813ea11a966.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 575460
     },
     {
       "id": "faa7bd_240ffb5326654aecaf9ee99b8e9f9f78~mv2_d_6496_3654_s_4_2.jpg",
@@ -1518,7 +1986,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-06-jpg-b0368d70fb20.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 118570
     },
     {
       "id": "faa7bd_3947755b309e46348c743915386a1b4e~mv2_d_6560_3691_s_4_2.jpg",
@@ -1532,7 +2005,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-05-jpg-89664ab23a47.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 109714
     },
     {
       "id": "faa7bd_8f46f5279d664d949fe7843d3f187798~mv2_d_6336_3564_s_4_2.jpg",
@@ -1546,7 +2024,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-04-jpg-94295aa4195e.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 102248
     },
     {
       "id": "faa7bd_99badc64f59b4d609149125d499894e3~mv2_d_6528_3672_s_4_2.jpg",
@@ -1560,7 +2043,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-02-jpg-655d4e24fad7.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 85608
     },
     {
       "id": "faa7bd_aec3bd0a69214201b240cec21b294d40~mv2_d_6400_3600_s_4_2.jpg",
@@ -1574,7 +2062,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/final-page-03-jpg-3af75d00cf8a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 47762
     },
     {
       "id": "faa7bd_442ee591e0f94262a211528abd9ee6dc~mv2_d_2988_5312_s_4_2.jpg",
@@ -1588,7 +2081,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180316-165323-jpg-9eb915c7ea24.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 299928
     },
     {
       "id": "faa7bd_f1610da72c6d4bebbfc99a71e9afcabd~mv2_d_2988_5312_s_4_2.jpg",
@@ -1602,7 +2100,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180302-120209-jpg-44725bd6b11c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 357016
     },
     {
       "id": "faa7bd_8a20e7e86271468ea24d2b194d90218b~mv2_d_5312_2988_s_4_2.jpg",
@@ -1616,7 +2119,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180308-083219-jpg-2bbc61095edc.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 148172
     },
     {
       "id": "faa7bd_24ff9a2f9b29443f96c7da4ad37210ba~mv2_d_5312_2988_s_4_2.jpg",
@@ -1630,7 +2138,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180315-123415-jpg-1c7965088f36.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 193208
     },
     {
       "id": "faa7bd_720e73d77567427db45abe18c39e74c6~mv2_d_2988_5312_s_4_2.jpg",
@@ -1644,7 +2157,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180216-090707-jpg-a07169c332b6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 402540
     },
     {
       "id": "faa7bd_9fb68c3641174cf4bcaf97b41efce5eb~mv2_d_2988_5312_s_4_2.jpg",
@@ -1658,7 +2176,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20170823-122718-jpg-928754d41ee2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 333568
     },
     {
       "id": "faa7bd_29493bf2179741549bdd2fa9c706677b~mv2_d_5312_2988_s_4_2.jpg",
@@ -1672,7 +2195,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180323-112316-jpg-ad8ef508569c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 219772
     },
     {
       "id": "faa7bd_34f9ebab9bf441a1b11211f18ce35af4~mv2_d_5312_2988_s_4_2.jpg",
@@ -1686,7 +2214,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180308-083151-jpg-9ef4b1419980.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 151886
     },
     {
       "id": "faa7bd_e0add18257184bfcb7d59a9c5cb976c9~mv2_d_2988_5312_s_4_2.jpg",
@@ -1700,7 +2233,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180308-083157-jpg-08ca40e9cedb.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 96986
     },
     {
       "id": "faa7bd_7c7a3db4a8974e47a750a340d9339e24~mv2_d_5312_2988_s_4_2.jpg",
@@ -1714,7 +2252,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180322-151149-jpg-aef715e1d03c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 309898
     },
     {
       "id": "faa7bd_2aadd5ea58df4e0791bdec46a6c520ac~mv2_d_5312_2988_s_4_2.jpg",
@@ -1728,7 +2271,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180322-151207-jpg-3972ca37be1a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 173440
     },
     {
       "id": "faa7bd_afabee0d3a1c4711b965589e6516dad8~mv2_d_5312_2988_s_4_2.jpg",
@@ -1742,7 +2290,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180322-151154-jpg-6e0f6d4602e0.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 118802
     },
     {
       "id": "faa7bd_5fab8fc0b5834471873f18b114e2e6ec~mv2_d_5312_2988_s_4_2.jpg",
@@ -1756,7 +2309,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180209-151947-jpg-094346c205af.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 436442
     },
     {
       "id": "faa7bd_cf28f91f974342db849bc4b5b40333ef~mv2_d_5312_2988_s_4_2.jpg",
@@ -1770,7 +2328,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180209-162834-jpg-26501acadb86.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 437980
     },
     {
       "id": "faa7bd_3fbd4330d21147fab284ca70f27b6c31~mv2_d_2988_5312_s_4_2.jpg",
@@ -1784,7 +2347,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180202-150756-jpg-0b11bc0265e2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 354394
     },
     {
       "id": "faa7bd_18973905a9524418b2e7e7af2511386f~mv2_d_5312_2988_s_4_2.jpg",
@@ -1798,7 +2366,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180201-154656-jpg-a1367c2bcd16.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 285944
     },
     {
       "id": "faa7bd_f7b966b4cb414360a55bdb05d6c63598~mv2_d_5312_2988_s_4_2.jpg",
@@ -1812,7 +2385,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180201-122915-jpg-218334b28d53.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 312584
     },
     {
       "id": "faa7bd_9aaaca2fee48496cb259b9479ac5585d~mv2_d_2988_5312_s_4_2.jpg",
@@ -1826,7 +2404,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180405-091341-jpg-2e73fa4eb749.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 316258
     },
     {
       "id": "faa7bd_4089acaa941d4b27955f4eada84f2e17~mv2_d_5312_2988_s_4_2.jpg",
@@ -1840,7 +2423,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20180402-144135-jpg-15a123b854b5.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 345230
     },
     {
       "id": "faa7bd_4f659d73103f4a48b4c15eef0773327f~mv2_d_2988_5312_s_4_2.jpg",
@@ -1854,7 +2442,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20180402-144050-jpg-258979090fb8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 334586
     },
     {
       "id": "faa7bd_80dbfe03977948f687ececcbea4cbd5a~mv2_d_6000_4000_s_4_2.jpg",
@@ -1868,7 +2461,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/mak-0164-jpg-d7c78adadd13.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 378898
     },
     {
       "id": "faa7bd_63854332932841b48f1301c9db5ab036~mv2_d_6000_4000_s_4_2.jpg",
@@ -1882,7 +2481,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1600,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/mak-0162-jpg-70b1077eb745.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 388360
     },
     {
       "id": "faa7bd_c5f1f4fc70ca4e3e84af960bbe31aa4d~mv2.jpg",
@@ -1896,7 +2501,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1400,
+      "optimizedHeight": 933,
+      "localPath": "assets/images/portfolio/mak-studio-2-jpg-d04d3061b898.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 284874
     },
     {
       "id": "faa7bd_7db4979d82764735bbd47ae529a2ad2e~mv2.jpg",
@@ -1910,7 +2520,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1400,
+      "optimizedHeight": 933,
+      "localPath": "assets/images/portfolio/mak-studio-5-jpg-c56fff012385.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 271478
     },
     {
       "id": "faa7bd_d09d2f34ce0c440fb539a5e5833c9e56~mv2.jpg",
@@ -1924,7 +2539,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1400,
+      "optimizedHeight": 933,
+      "localPath": "assets/images/portfolio/mak-studio-4-jpg-88045d636da8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 254334
     },
     {
       "id": "faa7bd_b091fb525ad14cbb8c62b64cc3f4a3ee~mv2.jpg",
@@ -1938,7 +2558,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1400,
+      "optimizedHeight": 933,
+      "localPath": "assets/images/portfolio/mak-studio-3-jpg-3ddbb017983f.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 196024
     },
     {
       "id": "faa7bd_0a2b80a735ca4cd6990ffe45845942c4~mv2.jpg",
@@ -1952,7 +2577,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1004,
+      "optimizedHeight": 1004,
+      "localPath": "assets/images/portfolio/18645612-766699040156107-6564716821692284928-n-jpg-835c8d49bc56.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 153140
     },
     {
       "id": "faa7bd_89640cf8625e4a75ba89c7cb53a62d94~mv2_d_2048_1928_s_2.jpg",
@@ -1966,7 +2596,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2048,
+      "optimizedHeight": 1928,
+      "localPath": "assets/images/portfolio/18739182-995169230619477-1239301775536851447-o-jpg-758d45764d8c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 399770
     },
     {
       "id": "faa7bd_ffd5fd0d95114b00a87326d85366d1ee~mv2_d_2048_1928_s_2.jpg",
@@ -1980,7 +2615,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2048,
+      "optimizedHeight": 1928,
+      "localPath": "assets/images/portfolio/18814604-995169233952810-1589725531708112548-o-jpg-a936141f4367.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 398070
     },
     {
       "id": "faa7bd_da5c7f43c4384ad79f4ed666f9efd1ad~mv2.jpg",
@@ -1994,7 +2634,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 768,
+      "optimizedHeight": 960,
+      "localPath": "assets/images/portfolio/18221884-979433398859727-3102047523377714761-n-jpg-e4e2164868f8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 162292
     },
     {
       "id": "faa7bd_d60cd48e8f00412899fe29e972bcbfa5~mv2_d_4756_2675_s_4_2.jpeg",
@@ -2008,7 +2653,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/living-room-jpeg-c3c326229631.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 322304
     },
     {
       "id": "faa7bd_a807dc55c03140029fc9784e27c51a1b~mv2_d_4928_3280_s_4_2.jpeg",
@@ -2022,7 +2672,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1597,
+      "localPath": "assets/images/portfolio/living-room-3-jpeg-e690d2d2c80a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 354168
     },
     {
       "id": "faa7bd_c2dd97e07cf743c2b285407f5b3f7499~mv2_d_4928_3280_s_4_2.jpeg",
@@ -2036,7 +2691,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1597,
+      "localPath": "assets/images/portfolio/living-room-2-jpeg-151140b58628.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 302134
     },
     {
       "id": "faa7bd_6dc24c90a7cf41af811d0d55527044f6~mv2.gif",
@@ -2050,7 +2710,13 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1280,
+      "optimizedHeight": 960,
+      "note": "Animated GIF converted to a single preview frame",
+      "localPath": "assets/images/portfolio/title-01-gif-474f510dcb2a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 19282
     },
     {
       "id": "faa7bd_7b8ce665102f41a7b32c3319d35094dd~mv2_d_10800_5100_s_4_2.jpg",
@@ -2064,7 +2730,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1133,
+      "localPath": "assets/images/portfolio/main-rendering-jpg-5b2e43b9544e.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 561300
     },
     {
       "id": "faa7bd_3624ae4179734213b3b0c1c3648cfb1e~mv2.jpg",
@@ -2078,7 +2749,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2018,
+      "optimizedHeight": 789,
+      "localPath": "assets/images/portfolio/pers3-jpg-393dd4cf7880.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 208216
     },
     {
       "id": "faa7bd_b5702b157fd34c82ae47d2145395b3bd~mv2_d_2018_1590_s_2.jpg",
@@ -2092,7 +2768,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2018,
+      "optimizedHeight": 1590,
+      "localPath": "assets/images/portfolio/section-diagrams-jpg-d027734889a9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 97786
     },
     {
       "id": "faa7bd_313ac6b6da15431ea103c2723aab1512~mv2_d_2016_1338_s_2.jpg",
@@ -2106,7 +2787,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2016,
+      "optimizedHeight": 1338,
+      "localPath": "assets/images/portfolio/pers2-jpg-60908decd18d.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 337046
     },
     {
       "id": "faa7bd_9f6b1bbbe29742a48e9cf0079b6984de~mv2_d_2213_2813_s_2.jpg",
@@ -2120,7 +2806,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1888,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/front-jpg-a82b7ca5b4b4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 139100
     },
     {
       "id": "faa7bd_22faebf469b34d119a3dd9a8dd2d71a1~mv2.jpg",
@@ -2134,7 +2825,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2018,
+      "optimizedHeight": 1056,
+      "localPath": "assets/images/portfolio/pers1-jpg-47ac09e5de8e.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 116612
     },
     {
       "id": "faa7bd_e0249e6f0c424f8ea4842119bc2548d5~mv2.jpg",
@@ -2148,7 +2844,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2018,
+      "optimizedHeight": 639,
+      "localPath": "assets/images/portfolio/diagram-1-jpg-63516791ab54.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 40390
     },
     {
       "id": "faa7bd_bfe79796f0444259b422f9f44477aa97~mv2.jpg",
@@ -2162,7 +2863,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2018,
+      "optimizedHeight": 476,
+      "localPath": "assets/images/portfolio/access-diagram-jpg-d1179f4c1612.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 26584
     },
     {
       "id": "faa7bd_78ae6253458c47b0aabce864c994f8e9~mv2_d_3508_4961_s_4_2.jpg",
@@ -2176,7 +2882,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1697,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/01-jpg-17ce685d7fd1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 273482
     },
     {
       "id": "faa7bd_66c507456534420fa36ffe62b1b9e38f~mv2_d_4416_2812_s_4_2.jpg",
@@ -2190,7 +2901,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1528,
+      "localPath": "assets/images/portfolio/1-jpg-3dd361bf655e.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 720012
     },
     {
       "id": "faa7bd_ed2fc91886a948429fccf6a9f84db17d~mv2_d_2988_5312_s_4_2.jpg",
@@ -2204,7 +2920,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/4-jpg-92ac1c8e61e0.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 442406
     },
     {
       "id": "faa7bd_c78abc802c6f44938ba4c996b9967e42~mv2_d_5312_2988_s_4_2.jpg",
@@ -2218,7 +2939,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/3-jpg-d4eda084a6fd.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 474476
     },
     {
       "id": "faa7bd_26c50760d0644f21aa36b27ed066151c~mv2_d_5312_2988_s_4_2.jpg",
@@ -2232,7 +2958,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/2-jpg-4ba37412c37c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 404710
     },
     {
       "id": "faa7bd_eee9806afe03452193b97f2d63b7861a~mv2_d_4590_2810_s_4_2.jpg",
@@ -2246,7 +2977,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1469,
+      "localPath": "assets/images/portfolio/1-converted-jpg-dfe7539a98ea.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 374376
     },
     {
       "id": "faa7bd_1abec5938ac541c4aed6e9ceb998bf09~mv2_d_9000_5312_s_4_2.jpg",
@@ -2260,7 +2996,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1417,
+      "localPath": "assets/images/portfolio/1-jpg-4936fe8f52bf.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 346038
     },
     {
       "id": "faa7bd_d0c740b98c2742dc99b3c05503138d1f~mv2_d_11414_6420_s_4_2.jpg",
@@ -2274,7 +3015,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-29-jpg-ed8b56bc86e2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 193970
     },
     {
       "id": "faa7bd_1c4ada476854412d99cfc6ab65251383~mv2_d_5334_3000_s_4_2.jpg",
@@ -2288,7 +3034,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-26-jpg-55fbbdb29a2b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 116144
     },
     {
       "id": "faa7bd_adf0fbc3867d449a87a4a79b3c33cd0b~mv2_d_8000_4500_s_4_2.jpg",
@@ -2302,7 +3053,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-28-jpg-fcfd5a469c18.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 72864
     },
     {
       "id": "faa7bd_d90e2d685a1149d9bc55b072114c82a0~mv2_d_4774_2670_s_4_2.jpg",
@@ -2316,7 +3072,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1342,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-25-jpg-148833978216.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 189962
     },
     {
       "id": "faa7bd_0321a71feeaa485facf2a4b5f8b65ada~mv2_d_5334_3000_s_4_2.jpg",
@@ -2330,7 +3091,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-27-jpg-267a35c00180.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 63934
     },
     {
       "id": "faa7bd_0ee8e91f0bfe42c4b918ce880f81cdde~mv2.jpg",
@@ -2344,7 +3110,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 528,
+      "optimizedHeight": 960,
+      "localPath": "assets/images/portfolio/13876661-10157217596650162-5160068871006658435-n-jpg-d70816013e94.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 140698
     },
     {
       "id": "faa7bd_08c7c2edb1804fc6972320d2131e907d~mv2_d_8000_4500_s_4_2.jpg",
@@ -2358,7 +3129,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-20-jpg-f94adc305dc7.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 65770
     },
     {
       "id": "faa7bd_94c2e245ee8a432fb913a57b6f294dd9~mv2_d_5334_3000_s_4_2.jpg",
@@ -2372,7 +3148,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-22-jpg-7c7218593ef4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 60468
     },
     {
       "id": "faa7bd_617309c13d554cfaa5cd9dbb60095221~mv2_d_4800_2700_s_4_2.jpg",
@@ -2386,7 +3167,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/171109-pvamu-presentation-final-page-21-jpg-4b99c8fc11d8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 141006
     },
     {
       "id": "faa7bd_8e425d5889454ed7b094281b5828870d~mv2_d_4032_3024_s_4_2.jpg",
@@ -2400,7 +3186,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/25530518-1655427284524616-206880142-o-jpg-924cf70add83.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 443878
     },
     {
       "id": "faa7bd_f8444250388c45f3b774692e0b545526~mv2_d_4032_3024_s_4_2.jpg",
@@ -2414,7 +3205,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/25634910-1658299887570689-279311684-o-jpg-967a0dd7e802.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 429250
     },
     {
       "id": "faa7bd_f9ff21ef65994c16ada53e5506094ab5~mv2_d_4032_3024_s_4_2.jpg",
@@ -2428,7 +3224,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/23846819-1628203193913692-259933600-o-jpg-d0b119d64ad4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 257266
     },
     {
       "id": "faa7bd_919822545d674f42b34bdd901a338a10~mv2_d_3255_2365_s_2.jpg",
@@ -2442,7 +3243,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1744,
+      "localPath": "assets/images/portfolio/25530734-10156016835951018-1063179318-o-jpg-aa8e2374e075.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 512668
     },
     {
       "id": "faa7bd_9f917d4f642649768bacfda3ff5642d4~mv2_d_4032_3024_s_4_2.jpg",
@@ -2456,7 +3262,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/25637416-1658299444237400-366897969-o-jpg-12784bfb83be.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 317494
     },
     {
       "id": "faa7bd_6e6859ee0b254dadb4e0942780bd28e8~mv2_d_2736_2217_s_2.jpg",
@@ -2470,7 +3281,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1945,
+      "localPath": "assets/images/portfolio/5-jpg-e7e11d2dc4e8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 273524
     },
     {
       "id": "faa7bd_dfd280f6ac204eff8ad873dc4e88c857~mv2_d_3264_2448_s_4_2.jpg",
@@ -2484,7 +3300,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/1-jpg-5e066f101e40.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 193270
     },
     {
       "id": "faa7bd_6501a0c8fe424c3784d3803f1b0c87b1~mv2_d_2448_1984_s_2.jpg",
@@ -2498,7 +3319,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1945,
+      "localPath": "assets/images/portfolio/2-jpg-6aff1ed5478a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 264190
     },
     {
       "id": "faa7bd_9ff731da63d44302914b51cbb8ffbc66~mv2.jpg",
@@ -2512,7 +3338,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 960,
+      "optimizedHeight": 960,
+      "localPath": "assets/images/portfolio/4-jpg-f36d3ab17ba6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 153250
     },
     {
       "id": "faa7bd_e780ff3cd75343968d37e7998e503b85~mv2.jpg",
@@ -2526,7 +3357,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 568,
+      "optimizedHeight": 568,
+      "localPath": "assets/images/portfolio/3-jpg-70e564d7be14.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 80722
     },
     {
       "id": "faa7bd_58fda6a266154e29adb11883156b5d6e~mv2_d_4832_5132_s_4_2.jpg",
@@ -2540,7 +3376,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2260,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/3-jpg-0355ddc88f34.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 149448
     },
     {
       "id": "faa7bd_fa9ab2479ef342d98331563eb958fb05~mv2_d_4832_5132_s_4_2.jpg",
@@ -2554,7 +3395,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2260,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/1-jpg-ec4ad1133bbc.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 167004
     },
     {
       "id": "faa7bd_32c70a76775b49888a796ad207aa22cf~mv2_d_5312_2988_s_4_2.jpg",
@@ -2568,7 +3414,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20170306-221304-jpg-89c3658f7c3a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 474050
     },
     {
       "id": "faa7bd_2cd242bea7894b37bd75a483de3598fa~mv2_d_2988_5312_s_4_2.jpg",
@@ -2582,7 +3433,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1350,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/20171107-162012-jpg-33ef78e55821.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 241268
     },
     {
       "id": "faa7bd_136ae47d63c743819d3c5939e4c175f8~mv2_d_4032_3024_s_4_2.jpg",
@@ -2596,7 +3452,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/25634910-1658299887570689-279311684-o-jpg-da1cac275c99.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 429250
     },
     {
       "id": "faa7bd_5d62b26eeadb42a4a6ff2070e488b10e~mv2_d_8694_4890_s_4_2.jpg",
@@ -2610,7 +3471,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20170810-mak-studio-presentation-page-37-jpg-dfd67f2df0ae.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 123384
     },
     {
       "id": "faa7bd_5d261a2d6a9e4767abc6fae0b14598b9~mv2_d_5334_3000_s_4_2.jpg",
@@ -2624,7 +3490,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20170810-mak-studio-presentation-page-31-jpg-ecf97f304374.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 162394
     },
     {
       "id": "faa7bd_504d16f719744bb98d32ecb705619661~mv2_d_5334_3000_s_4_2.jpg",
@@ -2638,7 +3509,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20170810-mak-studio-presentation-page-39-jpg-6ef5f38b2a26.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 64014
     },
     {
       "id": "faa7bd_0c683ad531b4454ba27b7f0f4282d75c~mv2_d_5334_3000_s_4_2.jpg",
@@ -2652,7 +3528,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "MAK Studio",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1350,
+      "localPath": "assets/images/portfolio/20170810-mak-studio-presentation-page-38-jpg-a4fc0c49249d.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 82508
     },
     {
       "id": "faa7bd_3265f701faa4437db9bc1701a3fdcff8~mv2.jpg",
@@ -2666,7 +3547,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "DesignHive",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2000,
+      "optimizedHeight": 1116,
+      "localPath": "assets/images/portfolio/designhive-inventure-001-small-banner-jpg-cd72209d3706.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 294762
     },
     {
       "id": "faa7bd_bcf450bc4679423ea28f015629b6c429~mv2.jpg",
@@ -2680,7 +3566,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "DesignHive",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1000,
+      "optimizedHeight": 1700,
+      "localPath": "assets/images/portfolio/designhive-workarea9-web-jpg-33d375a07533.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 260786
     },
     {
       "id": "faa7bd_097d3fe7476d473b8eb14f1294094363~mv2.jpg",
@@ -2694,7 +3585,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "DesignHive",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 941,
+      "localPath": "assets/images/portfolio/designhive-workarea6-top-jpg-849d3741b024.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 195516
     },
     {
       "id": "faa7bd_ee7f148f6fbb4395b275c5e4d0f644ab~mv2.jpg",
@@ -2708,7 +3604,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "DesignHive",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 941,
+      "localPath": "assets/images/portfolio/designhive-workarea8-front-jpg-c0fd592ef324.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 179974
     },
     {
       "id": "faa7bd_8cd98e95602a44feb58257da0953bae8~mv2.jpg",
@@ -2722,7 +3623,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "DesignHive",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 1068,
+      "localPath": "assets/images/portfolio/designhive-inventure-002-small-jpg-4780d1b58f4a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 213552
     },
     {
       "id": "faa7bd_6f3b5b80fbf643f8b7539f4b72631015~mv2.jpg",
@@ -2736,7 +3642,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1013,
+      "optimizedHeight": 757,
+      "localPath": "assets/images/portfolio/2-jpg-d562ced64756.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 55862
     },
     {
       "id": "faa7bd_9a087e2f3f774285978503dc773847cf~mv2.jpg",
@@ -2750,7 +3661,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1203,
+      "optimizedHeight": 756,
+      "localPath": "assets/images/portfolio/1-jpg-4510542d68a4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 25576
     },
     {
       "id": "faa7bd_e889bf4fef0a4d47bcbbd22837242f7d~mv2.jpg",
@@ -2764,7 +3680,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1280,
+      "optimizedHeight": 960,
+      "localPath": "assets/images/portfolio/810612940-78171-jpg-2f89d18f025b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 63054
     },
     {
       "id": "faa7bd_02d2564ae57b4e01ba81288e60bfd60f~mv2.jpg",
@@ -2778,7 +3699,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1280,
+      "optimizedHeight": 960,
+      "localPath": "assets/images/portfolio/810612029-77082-jpg-8b4ef103e68f.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 57004
     },
     {
       "id": "faa7bd_0b636cccafce495c880f261607f25f64~mv2.jpg",
@@ -2792,7 +3718,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1280,
+      "optimizedHeight": 960,
+      "localPath": "assets/images/portfolio/810615442-74854-jpg-7bdeaeab41e4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 41364
     },
     {
       "id": "faa7bd_34e404fb769145d4a8acef801384102f~mv2.jpg",
@@ -2806,7 +3737,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 800,
+      "optimizedHeight": 600,
+      "localPath": "assets/images/portfolio/11045468-10155577180900162-2684427539294090290-n-jpg-00e92f97ab8e.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 29574
     },
     {
       "id": "faa7bd_6d35bf2cde234a73ac0ff981d46375fd~mv2_d_1901_2930_s_2.jpg",
@@ -2820,7 +3756,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1557,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/1-converted-jpg-07d173883e6e.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 185836
     },
     {
       "id": "faa7bd_ccfe37c1af794ef985bfb7819d8fb23a~mv2.jpg",
@@ -2834,7 +3775,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1201,
+      "optimizedHeight": 621,
+      "localPath": "assets/images/portfolio/6-jpg-88b6ae4da627.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 186184
     },
     {
       "id": "faa7bd_15ad12f3e69d4a5f88a5bfc3fed429ce~mv2.jpg",
@@ -2848,7 +3794,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1275,
+      "optimizedHeight": 621,
+      "localPath": "assets/images/portfolio/8-jpg-bb94695e7187.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 159226
     },
     {
       "id": "faa7bd_012adaa3da8044d1b9510ca3df92cd36~mv2.jpg",
@@ -2862,7 +3813,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 876,
+      "optimizedHeight": 629,
+      "localPath": "assets/images/portfolio/1-jpg-3e78087c7726.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 106234
     },
     {
       "id": "faa7bd_d012d3e2e3ed4d768bf69d1e7a7ac5c3~mv2_d_5132_5132_s_4_2.jpg",
@@ -2876,7 +3832,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/4-jpg-a996c0c60ebd.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 169590
     },
     {
       "id": "faa7bd_2b4935465bf84b5f87293305d0f71a8c~mv2_d_3264_2448_s_4_2.jpg",
@@ -2890,7 +3851,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/tada1-jpg-3b38cb4ebfb2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 349562
     },
     {
       "id": "faa7bd_8a5d076b681d4796b67b955ba3a41a9f~mv2_d_2448_3264_s_4_2.jpg",
@@ -2904,7 +3870,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1800,
+      "optimizedHeight": 2400,
+      "localPath": "assets/images/portfolio/img-2257-jpg-a19b5df7a051.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 123090
     },
     {
       "id": "faa7bd_51c46571381a4732811e0b5fe4133c72~mv2_d_3264_2448_s_4_2.jpg",
@@ -2918,7 +3889,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/tada2-jpg-dc5bdaf172d3.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 282308
     },
     {
       "id": "faa7bd_84073047819340dfa924b121445739e0~mv2.jpg",
@@ -2932,7 +3908,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 900,
+      "optimizedHeight": 1575,
+      "localPath": "assets/images/portfolio/13305131-10156963715100162-3948228053853122738-o-jpg-b5df3e2a61b6.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 211544
     },
     {
       "id": "faa7bd_bf91605bcf344584b8e54021533a9d70~mv2.jpg",
@@ -2946,7 +3927,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 960,
+      "optimizedHeight": 911,
+      "localPath": "assets/images/portfolio/10944851-10155343785325162-406486269142776828-n-jpg-15ce6c8b4bdb.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 109764
     },
     {
       "id": "faa7bd_3101589724b04dc78d9cf9d9161c84d7~mv2_d_2845_2134_s_2.jpg",
@@ -2960,7 +3946,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-19-jpg-431946b5fd06.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 433632
     },
     {
       "id": "faa7bd_9f1ef80a93494f9d9ae66d31ae6e3738~mv2_d_1764_1323_s_2.jpg",
@@ -2974,7 +3965,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1764,
+      "optimizedHeight": 1323,
+      "localPath": "assets/images/portfolio/presentation-page-20-jpg-d949cdc92918.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 217320
     },
     {
       "id": "faa7bd_19e1b952b17a4b58a14905f01c2e2a87~mv2_d_2916_2187_s_2.jpg",
@@ -2988,7 +3984,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-17-jpg-65adbfd13f7f.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 343864
     },
     {
       "id": "faa7bd_9bc2b5a3ce994fc0bbcbc1d446749530~mv2_d_2845_2134_s_2.jpg",
@@ -3002,7 +4003,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-16-jpg-9d86e3e6f3e5.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 258270
     },
     {
       "id": "faa7bd_399a1f016f5b48fea3fb0dbbbf772b3b~mv2_d_2447_1835_s_2.jpg",
@@ -3016,7 +4022,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-15-jpg-7c595aa3c2dc.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 334074
     },
     {
       "id": "faa7bd_85242677e6724c5c8c8e8a586bd1ad19~mv2_d_2845_2134_s_2.jpg",
@@ -3030,7 +4041,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-18-jpg-351c5854ae5a.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 161438
     },
     {
       "id": "faa7bd_5f82c18051b84751bcfe6e405e2322df~mv2_d_2845_2134_s_2.jpg",
@@ -3044,7 +4060,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-14-jpg-4c4caf8cdd18.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 109390
     },
     {
       "id": "faa7bd_e3e84f1013a94db192c5680bf0008663~mv2_d_2845_2134_s_2.jpg",
@@ -3058,7 +4079,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-13-jpg-23a032cb96ab.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 178076
     },
     {
       "id": "faa7bd_0288ba5121fb4267ab083029a2dea717~mv2_d_3030_2272_s_2.jpg",
@@ -3072,7 +4098,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-12-jpg-3142a7230ada.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 179496
     },
     {
       "id": "faa7bd_a5ac1e726e564596a5a9db33688fb68d~mv2_d_2845_2134_s_2.jpg",
@@ -3086,7 +4117,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-10-jpg-1e6be9ddebdf.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 226616
     },
     {
       "id": "faa7bd_2557bc1577ba4b039202846c40c95b33~mv2_d_2845_2134_s_2.jpg",
@@ -3100,7 +4136,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-11-jpg-ae5dc1b21f11.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 176292
     },
     {
       "id": "faa7bd_bb14771d2ffa4088a0600bcc184b948f~mv2_d_2845_2134_s_2.jpg",
@@ -3114,7 +4155,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-08-jpg-85ac93d7683d.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 175004
     },
     {
       "id": "faa7bd_ada9cce60e5a4f368a4a69167716b461~mv2_d_2134_1600_s_2.jpg",
@@ -3128,7 +4174,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2134,
+      "optimizedHeight": 1600,
+      "localPath": "assets/images/portfolio/presentation-page-09-jpg-9abdf585a7d9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 172534
     },
     {
       "id": "faa7bd_8b7600ce2bb34794bf31992f9358ccd1~mv2_d_2447_1835_s_2.jpg",
@@ -3142,7 +4193,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-07-jpg-d21a16231390.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 544586
     },
     {
       "id": "faa7bd_9c3aa382fbdc4c3d8700649835845508~mv2_d_2319_1739_s_2.jpg",
@@ -3156,7 +4212,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2319,
+      "optimizedHeight": 1739,
+      "localPath": "assets/images/portfolio/presentation-page-01-jpg-65a0de478d24.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 250410
     },
     {
       "id": "faa7bd_51156de9cb42428797a2f6a2043959d0~mv2_d_2845_2134_s_2.jpg",
@@ -3170,7 +4231,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-03-jpg-869e73e14297.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 101094
     },
     {
       "id": "faa7bd_4f6bdefc2bcb4417831582cab6bf2d1d~mv2_d_2134_1600_s_2.jpg",
@@ -3184,7 +4250,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2134,
+      "optimizedHeight": 1600,
+      "localPath": "assets/images/portfolio/presentation-page-06-jpg-ec720a5c7fd8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 181296
     },
     {
       "id": "faa7bd_33e11295eeae49839283a9413c13d28b~mv2_d_2845_2134_s_2.jpg",
@@ -3198,7 +4269,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-04-jpg-b63f6d3cf0b4.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 79412
     },
     {
       "id": "faa7bd_30eefb4c913e4a7296552814114c415a~mv2_d_2134_1600_s_2.jpg",
@@ -3212,7 +4288,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2134,
+      "optimizedHeight": 1600,
+      "localPath": "assets/images/portfolio/presentation-page-05-jpg-4b25bac41dd2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 158968
     },
     {
       "id": "faa7bd_4fa0aa30741d417ca7dc5902668c60df~mv2_d_2845_2134_s_2.jpg",
@@ -3226,7 +4307,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portfolio/presentation-page-02-jpg-1a85ddbf0b5b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 43080
     },
     {
       "id": "faa7bd_977df32d755e4c519a4410265715bd20~mv2_d_2391_2391_s_2.jpg",
@@ -3240,7 +4326,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Other",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2391,
+      "optimizedHeight": 2391,
+      "localPath": "assets/images/portfolio/insta-jpg-65d4b3e783f1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 393696
     },
     {
       "id": "faa7bd_de025dbf9e62457d9de0d38951589048~mv2_d_1967_1978_s_2.jpg",
@@ -3254,7 +4345,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1967,
+      "optimizedHeight": 1978,
+      "localPath": "assets/images/portfolio/2-jpg-c0a432712a60.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 195276
     },
     {
       "id": "faa7bd_06a2c9c0292e4c9f930f11fc0a9a7c55~mv2.jpg",
@@ -3268,7 +4364,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2391,
+      "optimizedHeight": 966,
+      "localPath": "assets/images/portfolio/6-jpg-3c4149719649.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 129220
     },
     {
       "id": "faa7bd_7d87dd0e63664361b3d345c7c627d8c7~mv2.jpg",
@@ -3282,7 +4383,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 744,
+      "optimizedHeight": 475,
+      "localPath": "assets/images/portfolio/1-converted-jpg-db3ed8f3e232.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 52514
     },
     {
       "id": "faa7bd_c3e5bef1a6dc41749dd0e458919e6d0e~mv2.jpg",
@@ -3296,7 +4402,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 497,
+      "optimizedHeight": 496,
+      "localPath": "assets/images/portfolio/123-jpg-c980125d202c.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 20916
     },
     {
       "id": "faa7bd_a85a9bb298c24b1a8f975b7b9b921f6f~mv2_d_1387_1280_s_2.jpg",
@@ -3310,7 +4421,12 @@
       "sourceSite": "Alireza Memarian",
       "category": "Architecture",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1387,
+      "optimizedHeight": 1280,
+      "localPath": "assets/images/portfolio/img-2598-jpg-9bca8b4984e2.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 67266
     },
     {
       "id": "56749a_5a9ae21aa61749ecb10ecc2094cc7114~mv2.jpg",
@@ -3324,7 +4440,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1500,
+      "optimizedHeight": 2121,
+      "localPath": "assets/images/portal/embodied-resonance-prints-02-jpg-d4697843021b.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 355152
     },
     {
       "id": "56749a_bd71f9960a444129a570a417d125125c~mv2.jpg",
@@ -3338,7 +4459,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1125,
+      "optimizedHeight": 2000,
+      "localPath": "assets/images/portal/portal-universalis-ibiza-winter-solstice-tv-jpg-67dfa21d36bc.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 784942
     },
     {
       "id": "56749a_add4a23e0ed04391906010b1571741b7~mv2.jpg",
@@ -3352,7 +4478,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2000,
+      "localPath": "assets/images/portal/portal-universalis-ibiza-winter-solsticee-ig-jpg-eb34f1c403a0.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 1002836
     },
     {
       "id": "56749a_6c90566004de41fa89eb25a69c5b3874~mv2.jpg",
@@ -3366,7 +4497,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2000,
+      "optimizedHeight": 1500,
+      "localPath": "assets/images/portal/portal-universalis-ibiza-winter-solstice-07-jpg-82ae40a77480.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 765792
     },
     {
       "id": "56749a_9c940653654944fea13afa73dec7289e~mv2.jpg",
@@ -3380,7 +4516,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1351,
+      "localPath": "assets/images/portal/portal-universalis-winter-solstice-jpg-21ea1053a190.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 568344
     },
     {
       "id": "56749a_8c34023d94044b45950e1452f466cc3c~mv2.jpg",
@@ -3394,7 +4535,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1445,
+      "localPath": "assets/images/portal/pu-ws-04-jpg-bb63973381c1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 724048
     },
     {
       "id": "56749a_dd72ef1fc3f74495878d8b0931832878~mv2.jpg",
@@ -3408,7 +4554,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1600,
+      "optimizedHeight": 2000,
+      "localPath": "assets/images/portal/portal-universalis-activation-jpg-8eb220169039.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 279818
     },
     {
       "id": "56749a_a730c65c4cb646aca9120a66566236fb~mv2.png",
@@ -3422,7 +4573,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 896,
+      "optimizedHeight": 589,
+      "localPath": "assets/images/portal/pu-title-2025-06-fat-white-png-876bedfbdd4d.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 38416
     },
     {
       "id": "56749a_fd4341cb662b4ec2849436512f59189e~mv2.png",
@@ -3436,7 +4592,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1853,
+      "optimizedHeight": 1076,
+      "localPath": "assets/images/portal/pu-title-2025-06-thin-white-png-b422b303f6d8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 64490
     },
     {
       "id": "56749a_2940b974958f41d0b3845a959220d00b~mv2.jpg",
@@ -3450,7 +4611,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1920,
+      "optimizedHeight": 1921,
+      "localPath": "assets/images/portal/20251002-freddy-2c-jpg-c4cadb7a74cb.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 305252
     },
     {
       "id": "56749a_e234c1fb58fa4c7882cfa67de1764271~mv2.png",
@@ -3464,7 +4630,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1477,
+      "optimizedHeight": 436,
+      "localPath": "assets/images/portal/portal-universalis-png-640daf8a33a8.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 8498
     },
     {
       "id": "56749a_4d045818be4844fb8a6478d8329b0e12~mv2.png",
@@ -3478,7 +4649,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1853,
+      "optimizedHeight": 1076,
+      "localPath": "assets/images/portal/pu-title-2025-06-thin-bkg-png-891d39be17a9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 24390
     },
     {
       "id": "56749a_f6d84245c0f5441b9a7897046a5e5d74",
@@ -3492,7 +4668,9 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "56749a_182a60735b344beaaba1827c27c6c693",
@@ -3506,7 +4684,9 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "56749a_9ae0ee1510e74e02b89add06755d8c1f",
@@ -3520,7 +4700,9 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "56749a_eb41c23166fb44f08f85798db06f2dd1~mv2.png",
@@ -3534,7 +4716,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 535,
+      "optimizedHeight": 549,
+      "localPath": "assets/images/portal/portal-universalis-logo-png-59f2918cc862.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 51514
     },
     {
       "id": "56749a_7acec0239f2646af888ad5310c2006e8",
@@ -3548,7 +4735,9 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "56749a_96f8d9e974c0444d8221e3c09f741fbb~mv2.png",
@@ -3562,7 +4751,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1920,
+      "optimizedHeight": 508,
+      "localPath": "assets/images/portal/title-wip5-png-567b5bf0dda9.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 10904
     },
     {
       "id": "56749a_879b60acf1814102a2777df7a72f52f1",
@@ -3576,7 +4770,9 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "56749a_cc8c7cec70984741b929892b81f13d42",
@@ -3590,7 +4786,9 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "importStatus": "error",
+      "importError": "ffmpeg is not available on this runner"
     },
     {
       "id": "56749a_a2804b22045e478b95504b0e7c1ec895~mv2.png",
@@ -3604,7 +4802,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1920,
+      "optimizedHeight": 508,
+      "localPath": "assets/images/portal/title-wip3-png-44dc1c7d03f1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 10822
     },
     {
       "id": "56749a_d12877d9747a45a2a5897d76559f9827~mv2.png",
@@ -3618,7 +4821,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1920,
+      "optimizedHeight": 508,
+      "localPath": "assets/images/portal/title-wip2-png-c86e347dedc1.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 10716
     },
     {
       "id": "56749a_c1e199716133464b876019b567d417ce~mv2.png",
@@ -3632,7 +4840,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 1857,
+      "optimizedHeight": 508,
+      "localPath": "assets/images/portal/title-wip-png-5f098efbb3ed.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 10148
     },
     {
       "id": "56749a_bae8e62c8c52478fb2047ed853e26341~mv2.jpg",
@@ -3646,7 +4859,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portal/prizmitive-about-jpg-19c82e9bc5c5.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 1016508
     },
     {
       "id": "56749a_6df48615eefd4a05828b0537e8e4255b~mv2.jpg",
@@ -3660,7 +4878,12 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portal/img-20210824-140703-jpg-eac84760b522.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 557432
     },
     {
       "id": "56749a_efd0a0c32f88466c8df0c0cad57ec236~mv2.jpeg",
@@ -3674,7 +4897,18 @@
       "sourceSite": "Portal Universalis",
       "category": "Portal Universalis",
       "importApproved": true,
-      "showInGallery": true
+      "showInGallery": true,
+      "optimizedWidth": 2400,
+      "optimizedHeight": 1800,
+      "localPath": "assets/images/portal/img-1144-jpeg-4bd292d7c037.webp",
+      "importStatus": "complete",
+      "optimizedBytes": 639892
     }
-  ]
+  ],
+  "importSummary": {
+    "importedFiles": 231,
+    "linkedOnly": 18,
+    "errors": 13,
+    "lastRun": "2026-11-04T23:11:27Z"
+  }
 }
