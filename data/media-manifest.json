@@ -4,7 +4,7 @@
   "sourceSites": [
     "Alireza Memarian"
   ],
-  "excludedScope": "Automated Master Plan and all Portal Universalis media excluded; personal résumés and uncertain videos also excluded",
+  "excludedScope": "Curated to personal studio projects and built work only; unrelated site collections, automated master-planning material, private resumes and uncertain videos are excluded.",
   "note": "Public curated portfolio. Images grouped by source filenames; some project attributions need confirmation. Source Wix URLs preserved for remaining work.",
   "files": [
     {
@@ -1353,7 +1353,7 @@
       "localPath": "assets/images/portfolio/20180404-111909-jpg-441af101601b.webp",
       "importStatus": "complete",
       "optimizedBytes": 254238,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_a2c4870884e0480fba58533f791a2f01~mv2_d_5312_2988_s_4_2.jpg",
@@ -1373,7 +1373,7 @@
       "localPath": "assets/images/portfolio/20180328-113634-jpg-54206278ca08.webp",
       "importStatus": "complete",
       "optimizedBytes": 301846,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_4c5069b7a88447148f062df4a73b1042~mv2_d_2988_5312_s_4_2.jpg",
@@ -1393,7 +1393,7 @@
       "localPath": "assets/images/portfolio/20180328-113202-jpg-2cf9295f43c1.webp",
       "importStatus": "complete",
       "optimizedBytes": 284834,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_ce2af08926d946d085bfb8a2de5ff9db~mv2_d_5312_2988_s_4_2.jpg",
@@ -1413,7 +1413,7 @@
       "localPath": "assets/images/portfolio/20180328-113516-jpg-6e97f5eeb818.webp",
       "importStatus": "complete",
       "optimizedBytes": 271674,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_800a76c98d8a43a2ad34733665f06404~mv2_d_2988_5312_s_4_2.jpg",
@@ -1433,7 +1433,7 @@
       "localPath": "assets/images/portfolio/20180221-091737-jpg-df989d9c898a.webp",
       "importStatus": "complete",
       "optimizedBytes": 197830,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_589fc25a2226491aa617e5d06b5a0d0e~mv2_d_5312_2988_s_4_2.jpg",
@@ -1453,7 +1453,7 @@
       "localPath": "assets/images/portfolio/20180403-145921-jpg-2a9cbd05bb37.webp",
       "importStatus": "complete",
       "optimizedBytes": 222458,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_037c881a6fb84615907eba2e5c860bd6~mv2_d_5312_2988_s_4_2.jpg",
@@ -1473,7 +1473,7 @@
       "localPath": "assets/images/portfolio/20180404-111904-jpg-49409c55690c.webp",
       "importStatus": "complete",
       "optimizedBytes": 194476,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_21f4fea94af34173a04ec250ff3996b2~mv2_d_6000_4000_s_4_2.jpg",
@@ -2198,7 +2198,7 @@
       "localPath": "assets/images/portfolio/20180316-165323-jpg-9eb915c7ea24.webp",
       "importStatus": "complete",
       "optimizedBytes": 299928,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_f1610da72c6d4bebbfc99a71e9afcabd~mv2_d_2988_5312_s_4_2.jpg",
@@ -2218,7 +2218,7 @@
       "localPath": "assets/images/portfolio/20180302-120209-jpg-44725bd6b11c.webp",
       "importStatus": "complete",
       "optimizedBytes": 357016,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_8a20e7e86271468ea24d2b194d90218b~mv2_d_5312_2988_s_4_2.jpg",
@@ -2238,7 +2238,7 @@
       "localPath": "assets/images/portfolio/20180308-083219-jpg-2bbc61095edc.webp",
       "importStatus": "complete",
       "optimizedBytes": 148172,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_24ff9a2f9b29443f96c7da4ad37210ba~mv2_d_5312_2988_s_4_2.jpg",
@@ -2258,7 +2258,7 @@
       "localPath": "assets/images/portfolio/20180315-123415-jpg-1c7965088f36.webp",
       "importStatus": "complete",
       "optimizedBytes": 193208,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_720e73d77567427db45abe18c39e74c6~mv2_d_2988_5312_s_4_2.jpg",
@@ -2278,7 +2278,7 @@
       "localPath": "assets/images/portfolio/20180216-090707-jpg-a07169c332b6.webp",
       "importStatus": "complete",
       "optimizedBytes": 402540,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_9fb68c3641174cf4bcaf97b41efce5eb~mv2_d_2988_5312_s_4_2.jpg",
@@ -2318,7 +2318,7 @@
       "localPath": "assets/images/portfolio/20180323-112316-jpg-ad8ef508569c.webp",
       "importStatus": "complete",
       "optimizedBytes": 219772,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_34f9ebab9bf441a1b11211f18ce35af4~mv2_d_5312_2988_s_4_2.jpg",
@@ -2338,7 +2338,7 @@
       "localPath": "assets/images/portfolio/20180308-083151-jpg-9ef4b1419980.webp",
       "importStatus": "complete",
       "optimizedBytes": 151886,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_e0add18257184bfcb7d59a9c5cb976c9~mv2_d_2988_5312_s_4_2.jpg",
@@ -2358,7 +2358,7 @@
       "localPath": "assets/images/portfolio/20180308-083157-jpg-08ca40e9cedb.webp",
       "importStatus": "complete",
       "optimizedBytes": 96986,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_7c7a3db4a8974e47a750a340d9339e24~mv2_d_5312_2988_s_4_2.jpg",
@@ -2378,7 +2378,7 @@
       "localPath": "assets/images/portfolio/20180322-151149-jpg-aef715e1d03c.webp",
       "importStatus": "complete",
       "optimizedBytes": 309898,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_2aadd5ea58df4e0791bdec46a6c520ac~mv2_d_5312_2988_s_4_2.jpg",
@@ -2398,7 +2398,7 @@
       "localPath": "assets/images/portfolio/20180322-151207-jpg-3972ca37be1a.webp",
       "importStatus": "complete",
       "optimizedBytes": 173440,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_afabee0d3a1c4711b965589e6516dad8~mv2_d_5312_2988_s_4_2.jpg",
@@ -2418,7 +2418,7 @@
       "localPath": "assets/images/portfolio/20180322-151154-jpg-6e0f6d4602e0.webp",
       "importStatus": "complete",
       "optimizedBytes": 118802,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_5fab8fc0b5834471873f18b114e2e6ec~mv2_d_5312_2988_s_4_2.jpg",
@@ -2438,7 +2438,7 @@
       "localPath": "assets/images/portfolio/20180209-151947-jpg-094346c205af.webp",
       "importStatus": "complete",
       "optimizedBytes": 436442,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_cf28f91f974342db849bc4b5b40333ef~mv2_d_5312_2988_s_4_2.jpg",
@@ -2458,7 +2458,7 @@
       "localPath": "assets/images/portfolio/20180209-162834-jpg-26501acadb86.webp",
       "importStatus": "complete",
       "optimizedBytes": 437980,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_3fbd4330d21147fab284ca70f27b6c31~mv2_d_2988_5312_s_4_2.jpg",
@@ -2478,7 +2478,7 @@
       "localPath": "assets/images/portfolio/20180202-150756-jpg-0b11bc0265e2.webp",
       "importStatus": "complete",
       "optimizedBytes": 354394,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_18973905a9524418b2e7e7af2511386f~mv2_d_5312_2988_s_4_2.jpg",
@@ -2498,7 +2498,7 @@
       "localPath": "assets/images/portfolio/20180201-154656-jpg-a1367c2bcd16.webp",
       "importStatus": "complete",
       "optimizedBytes": 285944,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_f7b966b4cb414360a55bdb05d6c63598~mv2_d_5312_2988_s_4_2.jpg",
@@ -2518,7 +2518,7 @@
       "localPath": "assets/images/portfolio/20180201-122915-jpg-218334b28d53.webp",
       "importStatus": "complete",
       "optimizedBytes": 312584,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_9aaaca2fee48496cb259b9479ac5585d~mv2_d_2988_5312_s_4_2.jpg",
@@ -2538,7 +2538,7 @@
       "localPath": "assets/images/portfolio/20180405-091341-jpg-2e73fa4eb749.webp",
       "importStatus": "complete",
       "optimizedBytes": 316258,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_4089acaa941d4b27955f4eada84f2e17~mv2_d_5312_2988_s_4_2.jpg",
@@ -2558,7 +2558,7 @@
       "localPath": "assets/images/portfolio/20180402-144135-jpg-15a123b854b5.webp",
       "importStatus": "complete",
       "optimizedBytes": 345230,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_4f659d73103f4a48b4c15eef0773327f~mv2_d_2988_5312_s_4_2.jpg",
@@ -2578,7 +2578,7 @@
       "localPath": "assets/images/portfolio/20180402-144050-jpg-258979090fb8.webp",
       "importStatus": "complete",
       "optimizedBytes": 334586,
-      "projectId": "uncategorized"
+      "projectId": "fabrication-fieldwork"
     },
     {
       "id": "faa7bd_80dbfe03977948f687ececcbea4cbd5a~mv2_d_6000_4000_s_4_2.jpg",

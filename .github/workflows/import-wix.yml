@@ -1,10 +1,5 @@
 name: Import Wix media
 on:
-  push:
-    paths:
-      - 'data/media-manifest.json'
-      - 'scripts/import_wix_media.py'
-      - '.github/workflows/import-wix.yml'
   workflow_dispatch:
 permissions:
   contents: write

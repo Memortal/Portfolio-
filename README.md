@@ -20,7 +20,7 @@ Additional architectural proposals, presentation studies, interiors and computat
 - `assets/images/portfolio/`: optimized locally hosted copies, imported from the owner's personal Wix media library
 - `scripts/import_wix_media.py`: optional media-recovery importer; it reads only the curated manifest
 
-**Excluded:** all Portal Universalis material, all Automated Master Plan/AMP material, personal CV/resume documents, and ambiguous or unrelated video files.
+**Excluded:** unrelated site collections, Automated Master Plan/AMP material, personal CV/resume documents and scans, and ambiguous or unrelated video files.
 
 The current GitHub files are optimized for the public website, **not** an archival-quality backup of full-resolution Wix originals. Original Wix-hosted files were not changed.
 
