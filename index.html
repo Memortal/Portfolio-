@@ -64,11 +64,11 @@ footer a{color:var(--accent)}
 <main>
 <section class="hero">
 <div class="eyebrow">Computational design · Fabrication · Architecture · Art</div>
-<h1>Ideas become<br><em>physical.</em></h1>
-<p class="lead">Selected work from architectural studios, fabrication workshops and independent design research. Organized by project, with material evidence and sculptural studies first.</p>
-<div class="statline"><span><strong id="projectCount">—</strong> project collections</span><span><strong id="imageCount">—</strong> archived images</span><span>Historical project credits under review</span></div>
+<h1>Made with<br><em>purpose.</em></h1>
+<p class="lead">Built installations, metal sculpture, thermoformed solid-surface systems and tessellated architecture. Selected projects lead with material, process and construction.</p>
+<div class="statline"><span><strong id="projectCount">—</strong> project collections</span><span><strong id="imageCount">—</strong> archived images</span><span>AI imagery and personal photos removed</span></div>
 </section>
-<section id="selected"><div class="section-head"><h2>Selected for public-art proposals</h2><p>Made objects, fabrication process and human-scale spatial design lead this portfolio.</p></div><div id="featured" class="featured"></div></section>
+<section id="selected"><div class="section-head"><h2>Selected work for public-art commissions</h2><p>Fabricated metal, full-scale architectural installation, original sculpture and built work come first.</p></div><div id="featured" class="featured"></div></section>
 <section id="projects"><div class="section-head"><h2>Projects & documentation</h2><p>Explore each series separately. File names are preserved; unidentified projects are clearly marked for review.</p></div>
 <div class="controls" role="group" aria-label="Project archive filters">
 <button type="button" data-view="all" aria-pressed="true">All projects</button><button type="button" data-view="featured" aria-pressed="false">Competition selections</button><button type="button" data-view="review" aria-pressed="false">Needs attribution</button>
@@ -87,17 +87,7 @@ let projects=[], images=[], mode='all',lightSeries=[],lightIndex=0;
 const galleryLimit=8;
 function mediaUrl(f){if(f.localPath&&!f.localPath.includes('..')&&!f.localPath.startsWith('/'))return f.localPath;return f.sourceUrl?.startsWith('https://static.wixstatic.com/')?f.sourceUrl:''}
 function orderImages(p,collection){
- const n=String(f=>f);
- const score=(f)=>{
-  const s=f.name.toLowerCase();
-  if(p.id==='mak-studio')return /^mak_0164/i.test(s)?0:/^mak_0162/i.test(s)?1:/^mak-studio/i.test(s)?2:/MAK STUDIO PRESENTATION/i.test(s)?4:5;
-  if(p.id==='lotus-flower')return /lotus flower/i.test(s)?0:/tada1/i.test(s)?1:2;
-  if(p.id==='designhive')return /inventure_001/i.test(s)?0:/inventure_002/i.test(s)?1:2;
-  if(p.id==='fabrication-fieldwork')return /^dsc_/i.test(s)?0:1;
-  if(p.id==='architecture-diagrams')return /main rendering/i.test(s)?0:/pers1/i.test(s)?1:2;
-  return 2;
- };
- return collection.slice().sort((a,b)=>score(a)-score(b)||a.name.localeCompare(b.name,undefined,{numeric:true}));
+ return collection.slice().sort((a,b)=>(a.displayOrder??999)-(b.displayOrder??999)||a.name.localeCompare(b.name,undefined,{numeric:true}));
 }
 function img(f){const el=document.createElement('img');el.src=mediaUrl(f);el.loading='lazy';el.decoding='async';el.alt=f.name;return el}
 function photoCard(f,series,index){

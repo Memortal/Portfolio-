@@ -1,33 +1,35 @@
-# MEMO Portfolio — Competition-first project gallery
+# MEMO Studio Portfolio — Competition-Ready Selected Work
 
-**Public gallery:** https://memortal.github.io/Portfolio-/
+**Website:** https://memortal.github.io/Portfolio-/
 
-This website presents archived photographs and design materials by **project**, with work relevant to public-art competitions at the top.
+A project-based portfolio featuring 160 reviewed images of sculpture, architectural installations, fabrication, built interiors and computational design. The strongest public-art and fabrication precedents are shown first.
 
-## Featured project groups
+## Highlighted projects
 
-1. **MAK Studio** — fabrication, prototyping and historical presentation boards
-2. **Lotus Flower** — sculptural-art image set, with related TADA photographs (relationship to verify)
-3. **DesignHive / Inventure** — spatial and interior work-area design
-4. **Fabrication & Site Documentation** — workshop and site photo archive, attribution pending
+1. Aluminum Head — Faceted Metal Sculpture
+2. MAK Studio — Thermoformed Corian Fin Wall
+3. Austin Tessellated Installation
+4. Interactive Outdoor Public Art
+5. Perforated Metal Portrait Artwork
+6. MAK Studio — CNC Patterned Feature Wall
+7. Parametric Screens, Metal Mesh & Light
 
-Additional architectural proposals, presentation studies, interiors and computational-art images follow. Unidentified photos remain in a separate archive rather than receiving unsupported project credits.
+Other collections cover modular planters, DesignHive / Inventure, timber ceilings, Lotus Flower, architectural presentations, and computational research.
 
-## Data and images
+**Each project has image ordering and contextual notes** in `data/projects.json`. The entire photo catalog with original Wix links and group associations is in `data/media-manifest.json`.
 
-- `data/projects.json`: project titles, order, descriptions, publication and attribution caveats
-- `data/media-manifest.json`: every remaining media record, its project assignment and original Wix source URL
-- `assets/images/portfolio/`: optimized locally hosted copies, imported from the owner's personal Wix media library
-- `scripts/import_wix_media.py`: optional media-recovery importer; it reads only the curated manifest
+## Images, privacy and ownership
 
-**Excluded:** unrelated site collections, Automated Master Plan/AMP material, personal CV/resume documents and scans, and ambiguous or unrelated video files.
+The repository contains optimized web copies in `assets/images/portfolio/`. It does **not** contain full-resolution originals. Those remain on Wix and should be independently backed up in private storage.
 
-The current GitHub files are optimized for the public website, **not** an archival-quality backup of full-resolution Wix originals. Original Wix-hosted files were not changed.
+The public branch and current manifest exclude unrelated Wix-site material, Automated Master Plan, personal photographs, images featuring identifiable real people where present, obvious AI-generated artwork and old résumé scans. No video files are part of the public gallery. This does not rewrite old Git history; images deleted in a commit may remain recoverable from prior commits until the repository history is rewritten.
 
-## Authorship, collaboration and image permissions
+Historic studio work is collaborative. Exact project credits, owner participation, client confidentiality and permission to publish photography need to be verified. Visual photo-grouping is best-effort, not definitive project attribution.
 
-Project grouping is based on available filenames. Do not interpret archived work as a claim of sole authorship. Verify precise project names, contributors, photography rights and the user's role before submitting to a public-art jury. Image captions or project pages should describe responsibilities accurately.
+## Publishing
 
-## Hosting
+The portfolio is built from `index.html` and the catalog JSON. GitHub Pages publishes from the repository main branch. The import script is deliberately **manual-only** and uses the curated manifest, so it cannot automatically re-add media removed from the current catalog.
 
-This static site is configured to work on GitHub Pages from `main` / root. The site's grouped projects can be edited through `data/projects.json` and the manifest. The manual/automatic importer may be run from GitHub Actions for assets listed in the current manifest.
+## Editing a project
+
+Change the project's `title`, `summary`, `competitionFit`, `featured` or `priority` in `data/projects.json`. Change the images' `projectId` and `displayOrder` in `data/media-manifest.json`.
