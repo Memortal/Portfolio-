@@ -1,5 +1,5 @@
 {
-  "title": "MEMO Studio — Curated Competition Portfolio",
+  "title": "MEMO STUDIO — Selected Work",
   "lastOrganized": "2026-11-04",
   "projects": [
     {
@@ -12,11 +12,13 @@
       "discipline": "Sculpture & metal fabrication",
       "summary": "The faceted aluminum head photographed in the workshop, with related triangular panel prototypes and folded-metal assemblies. This project shows geometric decomposition translated into a physical sculptural form.",
       "competitionFit": "Direct evidence of fabricated metal sculpture and complex assembly — particularly relevant for the Norfolk and Hoboken public-art submissions.",
-      "review": "The sculptural head and related triangular fabrications are grouped visually; verify the precise role, credits and whether all shop prototypes belong to the same commission."
+      "review": "The sculptural head and related triangular fabrications are grouped visually; verify the precise role, credits and whether all shop prototypes belong to the same commission.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "mak-corian-finwall",
-      "title": "MAK Studio — Thermoformed Corian Fin Wall",
+      "title": "Thermoformed Corian Fin Wall",
       "subtitle": "Curved fins, forming jigs and completed interior",
       "date": "2018 archive",
       "priority": 2,
@@ -24,7 +26,9 @@
       "discipline": "Thermoforming & fabrication",
       "summary": "A study of flowing fin geometry in Corian solid surface, from shop-cut components and forming fixtures to wavelike installed fins. Fabrication and installation details are kept together to show how a computational surface becomes buildable.",
       "competitionFit": "Strong evidence of material experimentation, full-scale fabrication, detailing and installation planning.",
-      "review": "Corian thermoforming and MAK Studio are confirmed by the portfolio owner. Check whether all dark-fin close-ups are the same commission and add client/collaborator credits."
+      "review": "Corian thermoforming and MAK Studio are confirmed by the portfolio owner. Check whether all dark-fin close-ups are the same commission and add client/collaborator credits.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Alireza Memarian · Work at MAK Studio"
     },
     {
       "id": "austin-tessellation",
@@ -36,7 +40,9 @@
       "discipline": "Geometric design-build",
       "summary": "Tessellated geometry developed through triangulated shop mockups, nested fabrication parts, timber framing, and finished faceted architectural surfaces. The project series is identified as Austin work by the portfolio owner.",
       "competitionFit": "Shows project-specific geometry, construction sequencing, and coordination between a digital tessellation and a built architectural feature.",
-      "review": "The triangular shop work and installed cladding have been grouped visually; confirm which individual images share the same Austin project."
+      "review": "The triangular shop work and installed cladding have been grouped visually; confirm which individual images share the same Austin project.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "interactive-public-installation",
@@ -48,7 +54,9 @@
       "discipline": "Public art",
       "summary": "Photographs of a freestanding outdoor patterned artwork at installation, after completion, and at night. The steel or aluminum detailing and exact venue are not established by the filenames.",
       "competitionFit": "An especially relevant built-work precedent for interactive public-space sculpture, installation logistics and durable outdoor detailing.",
-      "review": "Confirm title, exact metal/material, site, role, and participating artists before presenting this as a named commission."
+      "review": "Confirm title, exact metal/material, site, role, and participating artists before presenting this as a named commission.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "metal-portrait-art",
@@ -60,11 +68,13 @@
       "discipline": "Public art & fabrication",
       "summary": "Close views and exhibition photographs of a perforated portrait panel, using controlled open area and light to reproduce an image in a physical surface.",
       "competitionFit": "Relevant precedent for the Waterside fish-panel proposal: variation, perforation, material and visual communication through fabricated metal.",
-      "review": "The face is part of the artwork, not a personal portrait photograph. Confirm the panel material, title, collaborators and exact role."
+      "review": "The face is part of the artwork, not a personal portrait photograph. Confirm the panel material, title, collaborators and exact role.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "mak-cnc-wall",
-      "title": "MAK Studio — CNC Patterned Feature Wall",
+      "title": "CNC-Patterned Feature Wall",
       "subtitle": "Design diagrams, carved panel texture and built interiors",
       "date": "2017–2018 archive",
       "priority": 6,
@@ -72,7 +82,9 @@
       "discipline": "CNC fabrication",
       "summary": "A coordinated series of MAK Studio design diagrams and installed carved-pattern wall photographs, showing milled texture, curved cutouts, modular surface construction and spatial detail.",
       "competitionFit": "Well suited to public-art applications where workmanship, constructability and integration with an architectural setting matter.",
-      "review": "Project and studio grouping is supported by the filenames, but individual contribution and collaboration credits require review."
+      "review": "Project and studio grouping is supported by the filenames, but individual contribution and collaboration credits require review.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Alireza Memarian · Work at MAK Studio"
     },
     {
       "id": "parametric-metal-screen",
@@ -84,7 +96,9 @@
       "discipline": "Art & computational fabrication",
       "summary": "Perforated surface studies, cellular patterns, and illuminated installations exploring how repeatable components generate curved, porous and luminous forms.",
       "competitionFit": "Connects algorithmic design with light, shadow and layered public-art surfaces.",
-      "review": "Several images are digital design studies rather than verified completed aluminum installations; materials must be confirmed."
+      "review": "Several images are digital design studies rather than verified completed aluminum installations; materials must be confirmed.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "modular-planter",
@@ -96,11 +110,13 @@
       "discipline": "Sculptural prototypes",
       "summary": "Physical cellular modules, geometric nesting and vegetation studies forming a sculptural planting system.",
       "competitionFit": "Relevant to resilience-park objectives and the integration of plants with public art.",
-      "review": "Verify title, exact material, and whether this series is one project."
+      "review": "Verify title, exact material, and whether this series is one project.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "designhive",
-      "title": "DesignHive / Inventure",
+      "title": "Inventure Workplace Interiors",
       "subtitle": "Custom workplace elements and interiors",
       "date": "2018 archive",
       "priority": 9,
@@ -108,7 +124,9 @@
       "discipline": "Workplace interiors",
       "summary": "Documentation of built interior spaces, sculpted work areas, furniture and architectural finishes.",
       "competitionFit": "Evidence of delivered human-scale environments, detailed construction and interior integration.",
-      "review": "Confirm precise role, client permissions and collaborators."
+      "review": "Confirm precise role, client permissions and collaborators.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Alireza Memarian · DesignHive"
     },
     {
       "id": "timber-ceiling",
@@ -120,7 +138,9 @@
       "discipline": "Architectural interiors",
       "summary": "An architectural interior defined by a rhythmic timber ceiling. Rendered views and installation photographs show the treatment from design intent to completed space.",
       "competitionFit": "Relevant fabrication and installed-work precedent.",
-      "review": "Exact project title and role are not provided in filenames; confirm before naming a client."
+      "review": "Exact project title and role are not provided in filenames; confirm before naming a client.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "lotus-flower",
@@ -132,7 +152,9 @@
       "discipline": "Sculptural art",
       "summary": "Layered sculptural forms recorded as early photos and a vivid illuminated flower-like physical object.",
       "competitionFit": "Demonstrates sculptural expression and geometric assembly for art opportunities.",
-      "review": "Confirm that all four images correspond to the same Lotus series and add exhibition details."
+      "review": "Confirm that all four images correspond to the same Lotus series and add exhibition details.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "final-boards",
@@ -144,7 +166,9 @@
       "discipline": "Architecture",
       "summary": "A complete sequence of research, diagrams, sections, renderings and master-planning studies, retained as a project presentation set.",
       "competitionFit": "Supports proposal clarity and the development of ideas into legible architectural documents.",
-      "review": "Project name and authorship to verify."
+      "review": "Project name and authorship to verify.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Alireza Memarian · Archived design study"
     },
     {
       "id": "multiverse-tower",
@@ -156,7 +180,9 @@
       "discipline": "Speculative architecture",
       "summary": "Concept diagrams, complex architectural geometry, sections and a project-scale rendering from an experimental design investigation.",
       "competitionFit": "Demonstrates formal originality and computational research.",
-      "review": "Confirm whether all images belong to the Multiverse Tower study before final project-page publication."
+      "review": "Confirm whether all images belong to the Multiverse Tower study before final project-page publication.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "pvamu-presentation",
@@ -168,7 +194,9 @@
       "discipline": "Documentation",
       "summary": "Architectural presentation boards and detail studies organized from a labeled PVAMU deck.",
       "competitionFit": "Supports the ability to communicate design geometry and construction intent.",
-      "review": "Confirm client/project/college attribution."
+      "review": "Confirm client/project/college attribution.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Alireza Memarian · Archived design presentation"
     },
     {
       "id": "design-presentation",
@@ -180,7 +208,9 @@
       "discipline": "Computational design",
       "summary": "Presentations of formal rule systems, growth algorithms, parametric arrangement and architectural patterns.",
       "competitionFit": "Highlights the computational methods supporting design exploration and bespoke fabrication.",
-      "review": "These are diagrams of algorithmic methods, not representations of completed built commissions."
+      "review": "These are diagrams of algorithmic methods, not representations of completed built commissions.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     },
     {
       "id": "computational-prototypes",
@@ -192,7 +222,15 @@
       "discipline": "Research",
       "summary": "Speculative forms, system diagrams, physical models and computational-development screenshots.",
       "competitionFit": "Additional context for geometry generation and prototyping.",
-      "review": "Project-level labels remain approximate; no AI-generated portraits or clearly synthetic illustrations are included."
+      "review": "Project-level labels remain approximate; no AI-generated portraits or clearly synthetic illustrations are included.",
+      "studio": "MEMO STUDIO",
+      "portfolioCredit": "Selected work by Alireza Memarian"
     }
-  ]
+  ],
+  "contact": {
+    "email": "alireza.memaryan@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alireza-memarian-118730288",
+    "website": "https://memostudio.design"
+  },
+  "design": "Minimal white editorial architecture portfolio"
 }

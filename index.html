@@ -1,163 +1,290 @@
 <!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="MEMO Studio portfolio: selected work in fabrication, sculptural art, computational design, and architecture organized by project.">
-<title>MEMO — Projects & Selected Work</title>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<meta name="description" content="MEMO STUDIO — selected work in architecture, computational design, sculpture and fabrication by Alireza Memarian.">
+<title>MEMO STUDIO — Architecture, Art & Fabrication</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;700&display=swap" rel="stylesheet">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
-:root{color-scheme:dark;--bg:#0c0d0d;--surface:#17191a;--text:#f5f5f0;--muted:#a6a9a7;--line:#373a39;--accent:#cfe6be}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font-family:'DM Sans',system-ui,sans-serif}a{color:inherit;text-decoration:none}
-header{position:relative;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:23px clamp(20px,5vw,84px);border-bottom:1px solid var(--line)}
-.brand{font:700 25px/1 'Space Grotesk',sans-serif;letter-spacing:-.07em}.brand span{color:var(--accent)}nav{display:flex;gap:26px;font-size:12px;color:var(--muted)}nav a:hover{color:var(--text)}
-main{max-width:1760px;margin:0 auto;padding:0 clamp(20px,5vw,84px) 90px}
-.hero{padding:85px 0 68px}.eyebrow{font-size:11px;letter-spacing:.17em;text-transform:uppercase;color:var(--accent);font-weight:700}
-h1{font:500 clamp(53px,7.5vw,116px)/.97 'Space Grotesk',sans-serif;letter-spacing:-.075em;margin:20px 0 24px}
-h1 em{font-style:normal;color:#8a8f8b}
-.lead{font-size:clamp(16px,1.45vw,19px);line-height:1.6;color:#b8bdb8;max-width:700px}
-.statline{display:flex;gap:25px;flex-wrap:wrap;margin-top:32px;color:var(--muted);font-size:12px}.statline strong{color:var(--text)}
-.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:20px;padding:28px 0 23px;border-top:1px solid var(--line)}
-.section-head h2{font:500 clamp(25px,3.2vw,39px)/1.1 'Space Grotesk';letter-spacing:-.04em;margin:0}
-.section-head p{color:var(--muted);max-width:450px;font-size:13px;line-height:1.55;margin:0}
-.featured{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:21px;margin-bottom:85px}
-.feature{display:block;min-width:0;outline-offset:4px}
-.feature-photo{position:relative;aspect-ratio:1.72;overflow:hidden;background:#202526}
-.feature-photo img{width:100%;height:100%;object-fit:cover;transition:transform .45s}
-.feature:hover img{transform:scale(1.045)}
-.feature-index{position:absolute;top:18px;left:19px;font-size:12px;color:white;text-shadow:0 1px 5px #000;background:#1119;padding:7px 11px}
-.feature-copy{padding:19px 0 10px;display:flex;gap:15px;justify-content:space-between}
-.feature-copy h3{font:500 clamp(20px,2.2vw,29px)/1.25 'Space Grotesk';letter-spacing:-.035em;margin:0 0 9px}
-.feature-copy p{font-size:13px;line-height:1.5;color:var(--muted);margin:0;max-width:560px}.arrow{color:var(--accent);font-size:25px}
-.controls{position:sticky;top:0;z-index:10;display:flex;align-items:center;flex-wrap:wrap;gap:9px;padding:13px 0;background:#0c0d0def;backdrop-filter:blur(15px);border-bottom:1px solid var(--line)}
-.controls button{border:1px solid var(--line);padding:9px 15px;border-radius:20px;color:#bec3be;background:transparent;cursor:pointer;font:600 12px 'DM Sans';white-space:nowrap}
-.controls button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#0c0d0d}
-.controls input{margin-left:auto;border:1px solid var(--line);border-radius:20px;padding:10px 16px;color:white;background:#1d2020;outline:none;min-width:200px}
-.project{padding:40px 0 62px;border-bottom:1px solid var(--line);scroll-margin-top:88px}
-.project-title{display:flex;justify-content:space-between;align-items:start;gap:22px;margin-bottom:24px}
-.project h3{font:500 clamp(27px,3vw,41px)/1.08 'Space Grotesk';letter-spacing:-.05em;margin:7px 0 9px}
-.project-no{color:var(--accent);font-size:12px;letter-spacing:.1em}
-.project-description{font-size:13px;max-width:700px;line-height:1.6;color:var(--muted)}
-.project-info{text-align:right;min-width:120px;color:#b3bbb2;font-size:12px}
-.project-info strong{display:block;font:400 27px 'Space Grotesk';color:var(--text);margin-bottom:5px}
-.note{color:#d0d5cc;font-size:12px;line-height:1.6;max-width:960px;margin:17px 0 0;padding-left:12px;border-left:2px solid #646e60}
-.photos{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}
-.photo{position:relative;display:block;overflow:hidden;background:#1c2020;border:0;padding:0;cursor:pointer;aspect-ratio:1.32;text-align:left}
-.photo img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s}
-.photo:hover img{transform:scale(1.065)}
-.photo .filename{position:absolute;inset:auto 0 0;padding:22px 12px 10px;font-size:11px;line-height:1.3;color:#fff;background:linear-gradient(transparent,#080b0cda);text-shadow:0 1px 2px #000;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
-.more{display:block;border:1px solid var(--line);border-radius:2px;background:transparent;color:var(--accent);padding:12px 18px;margin-top:17px;font:600 12px 'DM Sans';cursor:pointer}
-.more:hover{border-color:var(--accent)}
-footer{padding:50px 0 0;font-size:12px;color:var(--muted);line-height:1.65;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
-footer a{color:var(--accent)}
-#lightbox{position:fixed;inset:0;background:#020303f5;display:none;z-index:50;align-items:center;justify-content:center;flex-direction:column;padding:40px 55px}
+:root{color-scheme:light;--paper:#fff;--ink:#111311;--muted:#666b67;--line:#e5e7e3;--line2:#f1f2ef;--wash:#f7f8f6;--max:1550px;--pad:clamp(20px,5.1vw,84px)}
+*,*:before,*:after{box-sizing:border-box}
+html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:'DM Sans',Arial,sans-serif;font-size:15px;-webkit-font-smoothing:antialiased}
+button,input{font:inherit}button{cursor:pointer}a{color:inherit;text-decoration:none}a:hover{text-decoration:none}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid #22594e;outline-offset:4px}
+img{display:block;max-width:100%}::selection{background:#d9e7e1}
+.shell{width:100%;max-width:var(--max);margin-inline:auto;padding-inline:var(--pad)}
+.site-header{border-bottom:1px solid var(--line);background:var(--paper)}
+.header-inner{height:86px;display:flex;align-items:center;justify-content:space-between;gap:28px}
+.brand{font-size:20px;line-height:1;font-weight:700;letter-spacing:-.075em;white-space:nowrap}
+.brand span{font-weight:450;letter-spacing:-.065em;margin-left:4px}
+.nav{display:flex;align-items:center;gap:clamp(16px,2.6vw,44px)}
+.nav a{font-size:12px;font-weight:600;color:#515752;transition:color .2s}
+.nav a:hover{color:var(--ink)}
+.nav .nav-contact{display:flex;align-items:center;gap:14px;color:var(--ink)}
+.nav .nav-contact:after{content:"↗";font-size:15px;font-weight:400}
+.hero{padding-top:clamp(79px,9vw,145px);padding-bottom:clamp(85px,9vw,142px);display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:end}
+.eyebrow{color:#515752;font-size:11px;font-weight:650;letter-spacing:.2em;text-transform:uppercase}
+.hero h1{font-size:clamp(59px,7.8vw,128px);font-weight:450;letter-spacing:-.096em;line-height:.99;max-width:1070px;margin:25px 0 0}
+.hero h1 span{display:block}
+.hero h1 .soft{color:#929893}
+.hero-aside{padding-left:clamp(0px,4vw,88px);padding-bottom:8px}
+.hero-aside p{color:#414742;font-size:clamp(15px,1.3vw,18px);line-height:1.72;max-width:360px;margin:0 0 30px}
+.text-link{display:inline-flex;gap:20px;align-items:center;border-bottom:1px solid var(--ink);padding-bottom:7px;font-size:12px;font-weight:650;letter-spacing:.015em}
+.text-link:hover{color:#4e6c5d;border-color:#4e6c5d}
+.text-link i{font-style:normal;font-size:17px;font-weight:400}
+.rule-header{border-top:1px solid var(--ink);display:flex;justify-content:space-between;align-items:baseline;padding-top:21px;margin-bottom:28px;gap:20px}
+.section-number{font-size:11px;letter-spacing:.14em;font-weight:700;color:#747a75}
+.section-title{font-size:clamp(29px,3.3vw,43px);font-weight:500;letter-spacing:-.065em;line-height:1.12;margin:4px 0 0}
+.section-sub{font-size:12px;color:var(--muted);max-width:390px;line-height:1.7;margin:0;text-align:right}
+.feature-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(25px,3.2vw,47px) 22px}
+.feature-card{display:block;min-width:0;scroll-margin-top:35px}
+.feature-media{aspect-ratio:1.43;background:var(--wash);overflow:hidden;position:relative}
+.feature-card:first-child{grid-column:1 / -1}
+.feature-card:first-child .feature-media{aspect-ratio:2.1}
+.feature-media img{height:100%;width:100%;object-fit:cover;transition:transform .55s cubic-bezier(.2,.7,.2,1)}
+.feature-card:hover img{transform:scale(1.035)}
+.corner-label{position:absolute;top:16px;left:16px;background:#fff;color:var(--ink);padding:10px 12px;font-size:10px;letter-spacing:.11em;font-weight:700}
+.feature-meta{padding-top:15px;display:flex;justify-content:space-between;align-items:start;gap:20px}
+.feature-meta h3{font-size:clamp(21px,2.25vw,31px);font-weight:500;letter-spacing:-.056em;line-height:1.22;margin:0 0 9px}
+.feature-meta p{font-size:12px;color:var(--muted);line-height:1.65;max-width:550px;margin:0}
+.feature-arrow{font-size:23px;line-height:1}
+.selection{padding-bottom:clamp(90px,11vw,150px)}
+.archive{padding-top:24px}
+.archive-tools{display:flex;flex-wrap:wrap;gap:9px;align-items:center;border-bottom:1px solid var(--line);padding:16px 0;margin:0 0 15px}
+.filter{background:transparent;color:#606760;border:1px solid #dedfdb;padding:10px 17px;border-radius:100px;font-size:11px;font-weight:650}
+.filter[aria-pressed=true],.filter:hover{background:#141715;border-color:#141715;color:white}
+.search{margin-left:auto;border:1px solid var(--line);background:var(--wash);min-width:240px;padding:11px 15px;color:var(--ink);outline:0;border-radius:0;font-size:12px}
+.archive-status{font-size:11px;color:var(--muted);margin:24px 0 8px}
+.project-section{padding:41px 0 61px;border-bottom:1px solid var(--line);scroll-margin-top:30px}
+.project-head{display:flex;justify-content:space-between;gap:30px;align-items:start;margin:0 0 25px}
+.project-kicker{display:flex;align-items:center;gap:14px;color:#687069;text-transform:uppercase;letter-spacing:.13em;font-size:10px;font-weight:650;margin-bottom:10px}
+.project-kicker .slash{color:#b5b9b4}
+.project-head h3{font-size:clamp(27px,3vw,42px);line-height:1.1;letter-spacing:-.065em;font-weight:500;margin:0 0 12px}
+.project-description{font-size:13px;line-height:1.75;color:#555d56;max-width:770px;margin:0}
+.project-count{flex-shrink:0;text-align:right;min-width:70px}
+.project-count strong{display:block;font-size:31px;font-weight:450;letter-spacing:-.055em}
+.project-count span{font-size:10px;text-transform:uppercase;letter-spacing:.14em;color:var(--muted)}
+.photo-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.photo{border:0;padding:0;margin:0;background:var(--wash);position:relative;text-align:left;aspect-ratio:1.32;overflow:hidden;display:block}
+.photo img{height:100%;width:100%;object-fit:cover;transition:transform .4s}
+.photo:hover img{transform:scale(1.05)}
+.photo-label{position:absolute;bottom:0;left:0;right:0;padding:17px 9px 8px;color:#fff;background:linear-gradient(transparent,#0009);font-size:10px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;opacity:0;transition:opacity .2s}
+.photo:hover .photo-label,.photo:focus-visible .photo-label{opacity:1}
+.more{border:1px solid #c5cac4;background:white;color:var(--ink);padding:11px 18px;margin-top:19px;font-size:12px;font-weight:600}
+.more:hover{background:var(--wash)}
+.project-notes{margin-top:20px;font-size:11px;color:#677068;max-width:920px}
+.project-notes summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.project-notes p{line-height:1.75}
+.empty{padding:50px 0;color:var(--muted);font-size:14px}
+.contact{margin-top:140px;background:var(--wash);padding:clamp(45px,6vw,95px) 0}
+.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:35px;align-items:end}
+.contact h2{font-size:clamp(47px,6.6vw,94px);font-weight:450;line-height:1.05;letter-spacing:-.087em;margin:20px 0 0}
+.contact-summary{font-size:16px;line-height:1.7;color:#5e655e;max-width:450px;margin:0 0 30px}
+.contact-email{font-size:clamp(16px,2vw,25px);font-weight:500;letter-spacing:-.035em;display:block;width:fit-content;max-width:100%;overflow-wrap:anywhere;border-bottom:1px solid #111;padding-bottom:8px}
+.socials{display:flex;gap:26px;flex-wrap:wrap;margin-top:28px;font-size:12px;font-weight:650}
+.socials a:hover{opacity:.55}
+footer{border-top:1px solid var(--line);padding:32px 0 38px;display:flex;justify-content:space-between;gap:18px;align-items:center;flex-wrap:wrap;color:#696f68;font-size:11px}
+footer strong{color:var(--ink);letter-spacing:-.03em}
+#lightbox{display:none;position:fixed;inset:0;z-index:80;background:rgba(255,255,255,.98);align-items:center;justify-content:center;padding:70px 80px 50px}
 #lightbox.open{display:flex}
-#lightimg{max-width:100%;max-height:79vh;object-fit:contain}
-.light-caption{margin-top:15px;font-size:12px;color:var(--muted);max-width:900px;overflow-wrap:anywhere;text-align:center}
-.light-caption a{color:var(--accent)}
-.lb-close,.lb-prev,.lb-next{position:absolute;background:#28302ecc;color:var(--text);border:1px solid #59635e;border-radius:60px;min-width:42px;height:42px;cursor:pointer}
-.lb-close{top:21px;right:21px;font-size:23px}
-.lb-prev,.lb-next{top:50%;font-size:24px}.lb-prev{left:15px}.lb-next{right:15px}
-.empty{padding:55px 0;color:var(--muted)}
-@media(max-width:1020px){.photos{grid-template-columns:repeat(3,minmax(0,1fr))}.hero{padding:70px 0 50px}}
-@media(max-width:700px){header{padding:20px}nav{gap:12px}nav a:first-child{display:none}main{padding:0 20px 60px}.hero{padding:54px 0}.featured{grid-template-columns:1fr}.feature-photo{aspect-ratio:1.4}.photos{grid-template-columns:repeat(2,minmax(0,1fr))}.project-title{display:block}.project-info{text-align:left;display:flex;gap:14px;align-items:center;margin:14px 0}.project-info strong{margin:0}.controls input{width:100%;margin-left:0}.section-head{display:block}.section-head p{margin-top:10px}}
-</style></head><body>
-<header><a href="./" class="brand">MEMO<span> / </span>STUDIO</a><nav><a href="#selected">Selected work</a><a href="#projects">All projects</a><a href="https://github.com/Memortal/Portfolio-" target="_blank" rel="noopener">GitHub</a></nav></header>
+#lightbox img{max-width:min(1150px,100%);max-height:76vh;object-fit:contain;box-shadow:0 7px 38px #00000009}
+.light-inner{display:flex;align-items:center;justify-content:center;flex-direction:column;min-width:0}
+.light-caption{font-size:11px;color:#616961;text-align:center;margin-top:22px;max-width:800px;overflow-wrap:anywhere;line-height:1.7}
+.light-caption a{text-decoration:underline;text-underline-offset:3px}
+.lb-close,.lb-prev,.lb-next{border:1px solid #d8dbd7;background:#fff;color:var(--ink);width:45px;height:45px;border-radius:50%;position:absolute;font-size:24px;display:grid;place-items:center}
+.lb-close{top:22px;right:25px}.lb-prev{left:20px;top:50%}.lb-next{right:20px;top:50%}
+@media(max-width:950px){.hero{grid-template-columns:1fr;gap:29px}.hero-aside{padding-left:0}.hero-aside p{max-width:610px}.photo-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:690px){.header-inner{height:72px}.brand{font-size:18px}.nav{gap:16px}.nav a{font-size:11px}.nav a:nth-child(2){display:none}
+.hero{padding-top:64px;padding-bottom:73px}.hero h1{font-size:clamp(50px,12vw,76px)}
+.feature-grid{grid-template-columns:1fr;gap:36px}.feature-card:first-child{grid-column:auto}.feature-card:first-child .feature-media{aspect-ratio:1.43}
+.section-sub{text-align:left;margin-top:12px}.rule-header{display:block}
+.photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.archive-tools .search{flex-basis:100%;margin-left:0;width:100%}
+.project-head{gap:14px}.project-count strong{font-size:22px}.project-description{font-size:12px}
+.contact-grid{grid-template-columns:1fr;gap:30px}.contact{margin-top:90px}
+#lightbox{padding:65px 54px 55px}.lb-close{right:14px}.lb-prev{left:6px}.lb-next{right:6px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="site-header">
+<div class="shell header-inner">
+<a class="brand" href="./" aria-label="MEMO STUDIO home">MEMO <span>STUDIO</span></a>
+<nav class="nav" aria-label="Primary navigation">
+<a href="#selected">Selected work</a>
+<a href="#archive">Projects</a>
+<a class="nav-contact" href="#contact">Contact</a>
+</nav>
+</div>
+</header>
 <main>
-<section class="hero">
-<div class="eyebrow">Computational design · Fabrication · Architecture · Art</div>
-<h1>Made with<br><em>purpose.</em></h1>
-<p class="lead">Built installations, metal sculpture, thermoformed solid-surface systems and tessellated architecture. Selected projects lead with material, process and construction.</p>
-<div class="statline"><span><strong id="projectCount">—</strong> project collections</span><span><strong id="imageCount">—</strong> archived images</span><span>AI imagery and personal photos removed</span></div>
+<section class="shell hero">
+<div>
+<div class="eyebrow">MEMO STUDIO / SELECTED WORK</div>
+<h1><span>Design made</span><span class="soft">tangible.</span></h1>
+</div>
+<div class="hero-aside">
+<p>Architecture, computational design and fabrication. An evolving collection of built installations, sculptural explorations and design research.</p>
+<a href="#selected" class="text-link">Explore selected work <i aria-hidden="true">↗</i></a>
+</div>
 </section>
-<section id="selected"><div class="section-head"><h2>Selected work for public-art commissions</h2><p>Fabricated metal, full-scale architectural installation, original sculpture and built work come first.</p></div><div id="featured" class="featured"></div></section>
-<section id="projects"><div class="section-head"><h2>Projects & documentation</h2><p>Explore each series separately. File names are preserved; unidentified projects are clearly marked for review.</p></div>
-<div class="controls" role="group" aria-label="Project archive filters">
-<button type="button" data-view="all" aria-pressed="true">All projects</button><button type="button" data-view="featured" aria-pressed="false">Competition selections</button><button type="button" data-view="review" aria-pressed="false">Needs attribution</button>
-<input type="search" id="search" placeholder="Search projects or filenames…" aria-label="Search works"/>
-</div><div id="projectContainer"></div><p id="empty" class="empty" hidden>No matching project photos.</p>
+<section id="selected" class="shell selection" aria-labelledby="selected-title">
+<div class="rule-header">
+<div><span class="section-number">01 / HIGHLIGHTS</span><h2 id="selected-title" class="section-title">Selected projects</h2></div>
+<p class="section-sub">Built work, material experimentation and spatial ideas — selected for commissions and collaborations.</p>
+</div>
+<div id="featured" class="feature-grid"></div>
 </section>
-<footer><span>MEMO Studio — Archive of collaborative projects, studio material and independent research. Individual contributions and image rights should be confirmed before formal reuse.</span><a href="https://github.com/Memortal/Portfolio-" target="_blank" rel="noopener">Image manifest & source</a></footer>
+<section id="archive" class="shell archive" aria-labelledby="archive-title">
+<div class="rule-header">
+<div><span class="section-number">02 / PORTFOLIO</span><h2 id="archive-title" class="section-title">All projects</h2></div>
+<p class="section-sub">Explore each project in detail, with fabrication process, drawings and photographs.</p>
+</div>
+<div class="archive-tools" role="group" aria-label="Filter projects">
+<button class="filter" type="button" data-view="all" aria-pressed="true">All projects</button>
+<button class="filter" type="button" data-view="featured" aria-pressed="false">Selected work</button>
+<button class="filter" type="button" data-view="others" aria-pressed="false">Other projects</button>
+<input id="search" class="search" type="search" placeholder="Search projects or images" aria-label="Search portfolio" autocomplete="off">
+</div>
+<div class="archive-status" id="archive-status" aria-live="polite">Loading projects…</div>
+<div id="projectContainer"></div>
+<p id="empty" class="empty" hidden>No matching projects found.</p>
+</section>
+<section id="contact" class="contact" aria-labelledby="contact-title">
+<div class="shell contact-grid">
+<div>
+<div class="eyebrow">03 / GET IN TOUCH</div>
+<h2 id="contact-title">Have a project<br>in mind?</h2>
+</div>
+<div>
+<p class="contact-summary">For design collaborations, public art commissions, fabrication studies, computational workflows and speaking opportunities.</p>
+<a class="contact-email" href="mailto:alireza.memaryan@gmail.com">alireza.memaryan@gmail.com</a>
+<div class="socials">
+<a href="https://www.linkedin.com/in/alireza-memarian-118730288" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+<a href="https://memostudio.design" target="_blank" rel="noopener noreferrer">Studio website ↗</a>
+<a href="https://github.com/Memortal/Portfolio-" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+</div>
+</div>
+</div>
+</section>
 </main>
-<div id="lightbox" role="dialog" aria-modal="true" aria-label="Photograph preview">
-<button type="button" class="lb-close" aria-label="Close image">×</button><button type="button" class="lb-prev" aria-label="Previous photo">‹</button>
-<img id="lightimg" alt=""><button type="button" class="lb-next" aria-label="Next photo">›</button><div class="light-caption" id="lightCaption"></div>
+<footer class="shell">
+<div><strong>MEMO STUDIO</strong> © <span id="year">2026</span></div>
+<div>Selected work by Alireza Memarian, including projects completed with collaborating studios and teams.</div>
+<a href="mailto:alireza.memaryan@gmail.com">Contact ↗</a>
+</footer>
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+<button type="button" class="lb-close" id="close" aria-label="Close image">×</button>
+<button type="button" class="lb-prev" id="prev" aria-label="Previous image">‹</button>
+<div class="light-inner"><img id="lightimg" alt=""><div class="light-caption" id="lightCaption"></div></div>
+<button type="button" class="lb-next" id="next" aria-label="Next image">›</button>
 </div>
 <script>
+"use strict";
 const byId=id=>document.getElementById(id);
-let projects=[], images=[], mode='all',lightSeries=[],lightIndex=0;
-const galleryLimit=8;
-function mediaUrl(f){if(f.localPath&&!f.localPath.includes('..')&&!f.localPath.startsWith('/'))return f.localPath;return f.sourceUrl?.startsWith('https://static.wixstatic.com/')?f.sourceUrl:''}
-function orderImages(p,collection){
- return collection.slice().sort((a,b)=>(a.displayOrder??999)-(b.displayOrder??999)||a.name.localeCompare(b.name,undefined,{numeric:true}));
+let projects=[],images=[],view='all',lightSeries=[],lightIndex=0;
+const GALLERY_LIMIT=8;
+const publicEmail='alireza.memaryan@gmail.com';
+function imageUrl(f){
+ if(f.localPath&&!f.localPath.startsWith('/')&&!f.localPath.includes('..'))return f.localPath;
+ return '';
 }
-function img(f){const el=document.createElement('img');el.src=mediaUrl(f);el.loading='lazy';el.decoding='async';el.alt=f.name;return el}
-function photoCard(f,series,index){
- const b=document.createElement('button');b.type='button';b.className='photo';b.title=f.name;b.append(img(f));
- const name=document.createElement('span');name.className='filename';name.textContent=f.name;b.append(name);
- b.addEventListener('click',()=>showPhoto(series,index));return b;
+function ordered(p,arr){return arr.slice().sort((a,b)=>(a.displayOrder??999)-(b.displayOrder??999)||a.name.localeCompare(b.name,undefined,{numeric:true}))}
+function imageEl(f){
+ const el=document.createElement('img');el.src=imageUrl(f);el.loading='lazy';el.decoding='async';el.alt=(f.caption||f.name||'Project image')+' — MEMO STUDIO';return el;
 }
-function showPhoto(series,index){lightSeries=series;lightIndex=index;updateLightbox();byId('lightbox').classList.add('open')}
-function updateLightbox(){const f=lightSeries[lightIndex];if(!f)return;byId('lightimg').src=mediaUrl(f);byId('lightimg').alt=f.name;
- const label=byId('lightCaption');label.replaceChildren(document.createTextNode((lightIndex+1)+' / '+lightSeries.length+' · '+f.name+' · '));
- const a=document.createElement('a');a.href=f.sourceUrl;a.textContent='Wix original';a.target='_blank';a.rel='noopener';label.append(a);
+function el(tag,cls,text){
+ const x=document.createElement(tag);if(cls)x.className=cls;if(text!==undefined)x.textContent=text;return x;
 }
-function slide(delta){if(!lightSeries.length)return;lightIndex=(lightIndex+delta+lightSeries.length)%lightSeries.length;updateLightbox()}
-function closeLight(){byId('lightbox').classList.remove('open');byId('lightimg').removeAttribute('src')}
-document.querySelector('.lb-close').addEventListener('click',closeLight);
-document.querySelector('.lb-prev').addEventListener('click',()=>slide(-1));
-document.querySelector('.lb-next').addEventListener('click',()=>slide(1));
-byId('lightbox').addEventListener('click',e=>{if(e.target===byId('lightbox'))closeLight()});
-document.addEventListener('keydown',e=>{if(!byId('lightbox').classList.contains('open'))return;if(e.key==='Escape')closeLight();if(e.key==='ArrowLeft')slide(-1);if(e.key==='ArrowRight')slide(1)});
-function feature(p,idx){
- const arr=orderImages(p,images.filter(f=>f.projectId===p.id));if(!arr.length)return null;
- const a=document.createElement('a');a.className='feature';a.href='#project-'+p.id;
- const cover=document.createElement('div');cover.className='feature-photo';cover.append(img(arr[0]));
- const tag=document.createElement('span');tag.className='feature-index';tag.textContent=String(idx+1).padStart(2,'0')+' / '+p.discipline;cover.append(tag);
- const info=document.createElement('div');info.className='feature-copy';
- const left=document.createElement('div');const title=document.createElement('h3');title.textContent=p.title;
- const desc=document.createElement('p');desc.textContent=p.competitionFit;left.append(title,desc);
- const arrow=document.createElement('div');arrow.className='arrow';arrow.textContent='↗';
- info.append(left,arrow);a.append(cover,info);return a;
+function featuredCard(p,index){
+ const arr=ordered(p,images.filter(f=>f.projectId===p.id));if(!arr.length)return null;
+ const a=el('a','feature-card');a.href='#project-'+p.id;
+ const cover=el('div','feature-media');cover.append(imageEl(arr[0]));
+ cover.append(el('div','corner-label','MEMO STUDIO / '+String(index+1).padStart(2,'0')));
+ const meta=el('div','feature-meta'), copy=el('div'),title=el('h3','',p.title),desc=el('p','',p.subtitle||p.discipline);
+ copy.append(title,desc);meta.append(copy,el('span','feature-arrow','↗'));a.append(cover,meta);
+ return a;
 }
-function group(p,collection){
- const section=document.createElement('section');section.className='project';section.id='project-'+p.id;
- const top=document.createElement('div');top.className='project-title';
- const left=document.createElement('div');const no=document.createElement('div');no.className='project-no';no.textContent=p.discipline.toUpperCase()+' / '+p.date;
- const h=document.createElement('h3');h.textContent=p.title;const sub=document.createElement('div');sub.className='project-description';sub.textContent=p.summary;
- left.append(no,h,sub);const right=document.createElement('div');right.className='project-info';right.innerHTML='<strong>'+collection.length+'</strong> images';
- top.append(left,right);section.append(top);
- const list=document.createElement('div');list.className='photos';
- let shown=Math.min(galleryLimit,collection.length);
- collection.slice(0,shown).forEach((f,i)=>list.append(photoCard(f,collection,i)));section.append(list);
- if(collection.length>galleryLimit){
-   const btn=document.createElement('button');btn.type='button';btn.className='more';btn.textContent='View all '+collection.length+' images';
-   btn.addEventListener('click',()=>{if(shown<collection.length){collection.slice(shown).forEach((f,i)=>list.append(photoCard(f,collection,shown+i)));shown=collection.length;btn.textContent='Show fewer images'}else{list.replaceChildren();shown=galleryLimit;collection.slice(0,shown).forEach((f,i)=>list.append(photoCard(f,collection,i)));btn.textContent='View all '+collection.length+' images'}});
-   section.append(btn);
+function photoButton(f,group,i){
+ const btn=el('button','photo');btn.type='button';btn.title=f.name;
+ btn.setAttribute('aria-label','Open '+f.name);
+ btn.append(imageEl(f),el('span','photo-label',f.name));
+ btn.addEventListener('click',()=>openLightbox(group,i));
+ return btn;
+}
+function makeGroup(p,arr){
+ const section=el('section','project-section');section.id='project-'+p.id;
+ const header=el('div','project-head'),left=el('div'),right=el('div','project-count');
+ const kicker=el('div','project-kicker');
+ kicker.append(el('span','','MEMO STUDIO'),el('span','slash','/'),el('span','',p.discipline));
+ left.append(kicker,el('h3','',p.title),el('p','project-description',p.summary));
+ right.append(el('strong','',String(arr.length)),el('span','','Images'));
+ header.append(left,right);
+ const photos=el('div','photo-grid');
+ let shown=Math.min(GALLERY_LIMIT,arr.length);
+ arr.slice(0,shown).forEach((f,i)=>photos.append(photoButton(f,arr,i)));
+ section.append(header,photos);
+ if(arr.length>GALLERY_LIMIT){
+  const toggle=el('button','more','View all '+arr.length+' images');toggle.type='button';
+  toggle.addEventListener('click',()=>{
+   if(shown<arr.length){arr.slice(shown).forEach((f,i)=>photos.append(photoButton(f,arr,shown+i)));shown=arr.length;toggle.textContent='Show fewer images'}
+   else{photos.replaceChildren();shown=Math.min(GALLERY_LIMIT,arr.length);arr.slice(0,shown).forEach((f,i)=>photos.append(photoButton(f,arr,i)));toggle.textContent='View all '+arr.length+' images'}
+  });section.append(toggle);
  }
- if(p.review){const note=document.createElement('p');note.className='note';note.textContent='Attribution note: '+p.review;section.append(note)}
+ if(p.portfolioCredit||p.review){
+   const notes=el('details','project-notes');
+   const summary=el('summary','','Project background and credits');
+   const content=el('p','',(p.portfolioCredit||'')+(p.review?' · '+p.review:''));
+   notes.append(summary,content);section.append(notes);
+ }
  return section;
 }
 function render(){
- const q=byId('search').value.trim().toLowerCase();const container=byId('projectContainer');container.replaceChildren();
- let count=0;
- projects.forEach(p=>{
-  if(mode==='featured'&&!p.featured)return;
-  if(mode==='review'&&!p.review)return;
-  const groupFiles=orderImages(p,images.filter(f=>f.projectId===p.id));
-  const matchesGroup=(p.title+' '+p.subtitle+' '+p.summary+' '+p.discipline).toLowerCase().includes(q);
-  const subset=q&&!matchesGroup?groupFiles.filter(f=>f.name.toLowerCase().includes(q)):groupFiles;
-  if(!subset.length)return;container.append(group(p,subset));count++;
- });
- byId('empty').hidden=count>0;
+ const query=byId('search').value.trim().toLowerCase();
+ const root=byId('projectContainer');root.replaceChildren();let shown=0;
+ for(const p of projects){
+  if(view==='featured'&&!p.featured)continue;
+  if(view==='others'&&p.featured)continue;
+  const arr=ordered(p,images.filter(f=>f.projectId===p.id));
+  const groupMatches=[p.title,p.subtitle,p.discipline,p.summary,p.portfolioCredit].join(' ').toLowerCase().includes(query);
+  const found=(!query||groupMatches)?arr:arr.filter(f=>f.name.toLowerCase().includes(query));
+  if(!found.length)continue;
+  root.append(makeGroup(p,found));shown++;
+ }
+ byId('empty').hidden=shown>0;
+ byId('archive-status').textContent=shown+' projects · '+images.length+' images in the MEMO STUDIO portfolio';
 }
-document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{mode=b.dataset.view;document.querySelectorAll('[data-view]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));render()}));
-byId('search').addEventListener('input',render);
-Promise.all([fetch('./data/projects.json'),fetch('./data/media-manifest.json')]).then(async ([a,b])=>{
- if(!a.ok||!b.ok)throw Error('Missing project catalog');
- const pd=await a.json(),md=await b.json();projects=pd.projects.slice().sort((a,b)=>a.priority-b.priority);
- images=md.files.filter(f=>f.mediaType==='IMAGE'&&f.showInGallery&&f.importStatus==='complete'&&f.localPath);
- byId('projectCount').textContent=projects.filter(p=>images.some(f=>f.projectId===p.id)).length;
- byId('imageCount').textContent=images.length;
- const selected=byId('featured');projects.filter(p=>p.featured).forEach((p,i)=>{const tile=feature(p,i);if(tile)selected.append(tile)});
+function updateLightbox(){
+ const f=lightSeries[lightIndex];if(!f)return;
+ const im=byId('lightimg');im.src=imageUrl(f);im.alt=f.name+' — MEMO STUDIO';
+ const cap=byId('lightCaption');cap.replaceChildren(document.createTextNode('MEMO STUDIO  ·  '+(lightIndex+1)+' / '+lightSeries.length+'  ·  '+f.name));
+}
+function openLightbox(group,i){lightSeries=group;lightIndex=i;updateLightbox();byId('lightbox').classList.add('open');byId('close').focus()}
+function closeLightbox(){byId('lightbox').classList.remove('open');byId('lightimg').removeAttribute('src')}
+function slide(delta){if(!lightSeries.length)return;lightIndex=(lightIndex+delta+lightSeries.length)%lightSeries.length;updateLightbox()}
+byId('close').addEventListener('click',closeLightbox);
+byId('prev').addEventListener('click',()=>slide(-1));
+byId('next').addEventListener('click',()=>slide(1));
+byId('lightbox').addEventListener('click',e=>{if(e.target===byId('lightbox'))closeLightbox()});
+document.addEventListener('keydown',e=>{if(!byId('lightbox').classList.contains('open'))return;if(e.key==='Escape')closeLightbox();if(e.key==='ArrowLeft')slide(-1);if(e.key==='ArrowRight')slide(1)});
+for(const button of document.querySelectorAll('[data-view]'))button.addEventListener('click',()=>{
+ view=button.dataset.view;
+ document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
  render();
-}).catch(e=>{byId('projectContainer').textContent='The project catalog could not be loaded. '+e.message});
-</script></body></html>
+});
+byId('search').addEventListener('input',render);
+byId('year').textContent=String(new Date().getFullYear());
+Promise.all([fetch('./data/projects.json'),fetch('./data/media-manifest.json')]).then(async([p,m])=>{
+ if(!p.ok||!m.ok)throw Error('Project data unavailable');
+ const pd=await p.json(),md=await m.json();
+ projects=pd.projects.sort((a,b)=>a.priority-b.priority);
+ images=md.files.filter(f=>f.mediaType==='IMAGE'&&f.showInGallery&&f.importStatus==='complete'&&imageUrl(f));
+ const featured=byId('featured');projects.filter(p=>p.featured).forEach((p,i)=>{const c=featuredCard(p,i);if(c)featured.append(c)});
+ render();
+}).catch(e=>{byId('archive-status').textContent='Unable to load the portfolio. '+e.message});
+</script>
+</body>
+</html>

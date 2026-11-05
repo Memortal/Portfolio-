@@ -1,35 +1,24 @@
-# MEMO Studio Portfolio — Competition-Ready Selected Work
+# MEMO STUDIO — Selected Work
 
-**Website:** https://memortal.github.io/Portfolio-/
+A minimal, white-background professional portfolio of architecture, art, computational design, fabricated installations, and historical selected projects by Alireza Memarian. The site is published through GitHub Pages.
 
-A project-based portfolio featuring 160 reviewed images of sculpture, architectural installations, fabrication, built interiors and computational design. The strongest public-art and fabrication precedents are shown first.
+**Live website:** https://memortal.github.io/Portfolio-/
 
-## Highlighted projects
+**Contact:** [alireza.memaryan@gmail.com](mailto:alireza.memaryan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alireza-memarian-118730288) · [Studio](https://memostudio.design)
 
-1. Aluminum Head — Faceted Metal Sculpture
-2. MAK Studio — Thermoformed Corian Fin Wall
-3. Austin Tessellated Installation
-4. Interactive Outdoor Public Art
-5. Perforated Metal Portrait Artwork
-6. MAK Studio — CNC Patterned Feature Wall
-7. Parametric Screens, Metal Mesh & Light
+## Portfolio structure
 
-Other collections cover modular planters, DesignHive / Inventure, timber ceilings, Lotus Flower, architectural presentations, and computational research.
+- `index.html` — responsive white editorial website, galleries, lightbox, selected work, and contact section.
+- `data/projects.json` — ordered project metadata, MEMO STUDIO branding, project backgrounds and collaboration notes.
+- `data/media-manifest.json` — approved image paths and Wix-source provenance.
+- `assets/images/portfolio/` — optimized gallery image copies.
 
-**Each project has image ordering and contextual notes** in `data/projects.json`. The entire photo catalog with original Wix links and group associations is in `data/media-manifest.json`.
+This archive presents selected work under the **MEMO STUDIO** portfolio identity, not a claim that every older commission was designed or fabricated exclusively by MEMO STUDIO. Historical practice credits remain available in the project metadata and expandable 'Project background and credits' sections.
 
-## Images, privacy and ownership
+## Publication and privacy
 
-The repository contains optimized web copies in `assets/images/portfolio/`. It does **not** contain full-resolution originals. Those remain on Wix and should be independently backed up in private storage.
+Only previously approved portfolio images appear in this website. The earlier removed personal images, AI-generated pictures, Automated Master Plan, and Portal Universalis assets are not restored. Optimized images are not original-resolution backups; the original Wix sources remain untouched.
 
-The public branch and current manifest exclude unrelated Wix-site material, Automated Master Plan, personal photographs, images featuring identifiable real people where present, obvious AI-generated artwork and old résumé scans. No video files are part of the public gallery. This does not rewrite old Git history; images deleted in a commit may remain recoverable from prior commits until the repository history is rewritten.
+## Updates
 
-Historic studio work is collaborative. Exact project credits, owner participation, client confidentiality and permission to publish photography need to be verified. Visual photo-grouping is best-effort, not definitive project attribution.
-
-## Publishing
-
-The portfolio is built from `index.html` and the catalog JSON. GitHub Pages publishes from the repository main branch. The import script is deliberately **manual-only** and uses the curated manifest, so it cannot automatically re-add media removed from the current catalog.
-
-## Editing a project
-
-Change the project's `title`, `summary`, `competitionFit`, `featured` or `priority` in `data/projects.json`. Change the images' `projectId` and `displayOrder` in `data/media-manifest.json`.
+Edit project titles, summaries, featured flags and credits in `data/projects.json`. GitHub Pages automatically rebuilds from the main branch when files change.
